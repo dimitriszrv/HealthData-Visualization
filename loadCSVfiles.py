@@ -4,7 +4,7 @@ import csv
 import pandas as pd
 import glob
 import numpy as np
-
+import functools
 
 def main() :
     print("Python : ", sys.version)
@@ -56,6 +56,8 @@ def main() :
             file_path = os.path.join(csvFileDir, filename)
 
             normalizeCSVfile(file_path)
+    
+    createFinalCSV()
     
 
 # Initialize global variables
@@ -167,6 +169,7 @@ def normalizeCSVfile(csvFilePath):
     exportDataframeToCSV(df, csvFilePath)
 
 
+
 # Generate normalized csv files 
 def exportDataframeToCSV(dataframe, csvFilePath) :
     global normalizedFilesDirPath
@@ -179,6 +182,66 @@ def exportDataframeToCSV(dataframe, csvFilePath) :
     print("____EXPORT DATA TO NORMALIZED CSV FILE : ", normalizedFilePath, "____")
 
     dataframe.to_csv(normalizedFilePath, index = False, header = True)
+
+
+def createFinalCSV() :
+    global finalCSVDirPath
+    global Years
+    global Countries
+    global finalCSVDirPath
+    global normalizedFilesDirPath
+
+    # Create dataframe with 2 columns
+    # country | years (every possible pair of country-year)
+    cntryDF = pd.DataFrame({'country' : Countries})
+    yrsDF = pd.DataFrame({'years' : Years})
+
+    cntryDF['key'] = 0
+    yrsDF['key'] = 0
+    df = ( cntryDF.merge(yrsDF, on='key', how='outer'). drop(columns='key') )
+    
+    print(df, "\n")
+
+    colCounter=0
+    # For every normalized file, add a column to the dataframe so that each row will hold the properly value
+    # for the {country-year} pair 
+    for normalizedFile in os.listdir(normalizedFilesDirPath) :
+        if normalizedFile.endswith(".csv"):
+            normalized_filepath = os.path.join(normalizedFilesDirPath, normalizedFile) 
+
+            tempDF = pd.read_csv(normalized_filepath)
+
+            tempDF = tempDF.loc[:, tempDF.columns != 'country']
+            rowsList = tempDF.values.tolist()
+            
+            # Will hold the values from all rows
+            flattenRowList = []
+
+            # Flatten the list of lists to a single list
+            for sublist in rowsList :
+                for value in sublist : 
+                    flattenRowList.append(value)
+            
+            # Make the list with the values a unique column in the dataframe
+            df[colCounter] = flattenRowList
+            
+            
+            colCounter += 1
+    print("\n\n")
+    print("_____________________")
+    print("_____________________")
+    print("___FINAL DATAFRAME___")
+    print("_____________________")
+    print("_____________________")
+    print(df, "\n")
+
+    print("*** EXPORT FINAL CSV ***")
+    print("- Location : ", finalCSVDirPath)
+
+    finalFullPath = finalCSVDirPath + "\Final.csv" 
+    df.to_csv(finalFullPath, index = False, header = True)
+
+            
 
 
 

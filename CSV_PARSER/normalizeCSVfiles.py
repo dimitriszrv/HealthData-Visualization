@@ -5,6 +5,7 @@ import pandas as pd
 import glob
 import numpy as np
 import functools
+import pathlib
 
 def main() :
     print("Python : ", sys.version)
@@ -69,15 +70,18 @@ def initValues():
     global normalizedFilesDirPath
     global csvFileDir
     global finalCSVDirPath
+    
 
+    # Directory containing the python parser
+    parserDir = pathlib.Path(__file__).parent.absolute()
     # Directory containing the datasets
-    csvFileDir = r'C:\Users\vagge\Desktop\__Gapminder Datasets'
+    csvFileDir = os.path.join(str(parserDir),'row_csv_data')
 
     # Directory containing the normalized csv files
-    normalizedFilesDirPath = r'C:\Users\vagge\Desktop\__Gapminder Datasets\NormalizedData'
+    normalizedFilesDirPath = os.path.join(str(parserDir),'NormalizedData')
     
     # Directory containing the final csv with the data
-    finalCSVDirPath = r'C:\Users\vagge\Desktop\__Gapminder Datasets\FinalCSV'
+    finalCSVDirPath = os.path.join(str(parserDir),'FinalCSV')
 
     Countries = []
     Years = []
@@ -177,7 +181,7 @@ def exportDataframeToCSV(dataframe, csvFilePath) :
     dirPath, fileName = os.path.split(csvFilePath)
 
     # Path of the normalized csv file (Name: Norm_'original name of the csv file')
-    normalizedFilePath = normalizedFilesDirPath + "\\Norm_" + fileName
+    normalizedFilePath = os.path.join(normalizedFilesDirPath,'Norm_' + fileName)
 
     print("____EXPORT DATA TO NORMALIZED CSV FILE : ", normalizedFilePath, "____")
 
@@ -202,7 +206,7 @@ def createFinalCSV() :
     
     print(df, "\n")
 
-    colCounter=0
+    colCounter=1
     # For every normalized file, add a column to the dataframe so that each row will hold the properly value
     # for the {country-year} pair 
     for normalizedFile in os.listdir(normalizedFilesDirPath) :
@@ -238,7 +242,7 @@ def createFinalCSV() :
     print("*** EXPORT FINAL CSV ***")
     print("- Location : ", finalCSVDirPath)
 
-    finalFullPath = finalCSVDirPath + "\Final.csv" 
+    finalFullPath = os.path.join(finalCSVDirPath,'Final.csv') 
     df.to_csv(finalFullPath, index = False, header = True)
 
             
@@ -246,3 +250,4 @@ def createFinalCSV() :
 
 
 main()
+

@@ -209,10 +209,10 @@ def createFinalCSV() :
     colCounter=1
     # For every normalized file, add a column to the dataframe so that each row will hold the properly value
     # for the {country-year} pair 
-    for normalizedFile in os.listdir(normalizedFilesDirPath) :
+    for normalizedFile in sorted(os.listdir(normalizedFilesDirPath)) :
         if normalizedFile.endswith(".csv"):
             normalized_filepath = os.path.join(normalizedFilesDirPath, normalizedFile) 
-
+            #print("DDDDDDDDDDDDDDDDDDDDD",normalized_filepath)
             tempDF = pd.read_csv(normalized_filepath)
 
             tempDF = tempDF.loc[:, tempDF.columns != 'country']
@@ -250,4 +250,13 @@ def createFinalCSV() :
 
 
 main()
-
+'''
+initValues()
+for us in os.listdir(normalizedFilesDirPath):
+    print(us)
+print()
+print("Sorted")
+print()
+for so in sorted(os.listdir(normalizedFilesDirPath)):
+    print(so)
+'''

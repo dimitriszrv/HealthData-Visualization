@@ -51,7 +51,7 @@ def Main():
         ################          S O S          ##############
         #Uncommended Only ONE ( 1  ) Time
 
-        #LoadData(cursor)
+        LoadData(cursor)
         
         
         

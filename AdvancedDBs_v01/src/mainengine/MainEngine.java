@@ -1,6 +1,10 @@
 package mainengine;
 
-import output.OutputManager;
+import java.util.ArrayList;
+
+import javafx.scene.chart.Chart;
+import output.AbstractChartGenerator;
+import output.GeneratorFactory;
 import queryprocessor.QueryProcessor;
 
 /**
@@ -8,8 +12,11 @@ import queryprocessor.QueryProcessor;
  */
 public class MainEngine implements IMainEngine{
 	private static MainEngine mainEngine;
+	private static GeneratorFactory generatorFactory;
 	
-	public MainEngine() {}
+	public MainEngine() {
+		generatorFactory = new GeneratorFactory();
+	}
 	
 	/** Singleton Pattern.
 	 * 	Public static method for getting the MainEngine instance.
@@ -21,24 +28,18 @@ public class MainEngine implements IMainEngine{
 	}
  
 	@Override
-	public void processQuery() {
+	public void queryProcess(ArrayList<String> countries, ArrayList<String> indexes, ArrayList<String> years) {
 		QueryProcessor queryprocessor = new QueryProcessor();
 		// ... queryprocessor.createQuery();
 	}
 
 	@Override
-	public void generateBarChart() {
-		OutputManager outputmanager = new OutputManager();
-		// ... outputmanager.getBarChart();
+	public Chart generateChart(String chartType) {
+		AbstractChartGenerator generator = generatorFactory.createGenerator(chartType);
 		
+		return generator.generateChart();
 	}
 
-	@Override
-	public void generatePieChart() {
-		OutputManager outputManager = new OutputManager();
-		// ... outputmanager.getPieChart();
-		
-	}
 	
 	
 }

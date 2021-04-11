@@ -9,6 +9,7 @@ After creating the library
 
 ### Configure mysql-connector
 Find the path of jar file 'mysql-connector-java-8.0.23.jar' at  '/javafx-sdk-16/lib/mysql-connector/'.
+
 Right click on project name>>Build Path>>Configure Build Path>>Libraries>>Modulepath>>Add JARS>>Select .jar file>>OK>>Apply and Close
 
 # Run project

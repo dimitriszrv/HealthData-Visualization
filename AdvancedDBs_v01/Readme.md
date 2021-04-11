@@ -1,4 +1,4 @@
-# Configure JavaFx
+# Configure JavaFx & MySQL
 
 ### Creating new User Library to include Javafx
 Preferences>>Java>>Build Path>>User Libraries>>New>>'Name it javafx'
@@ -6,6 +6,10 @@ Add jars to the created javafx user library (there are stored in lib subdirector
 
 After creating the library
 'right click on project'>>Properties>>Java Build Path>>Libraries>>Classpath>>Add Library>>User Library>>javafx
+
+### Configure mysql-connector
+Drag and drop 'mysql-connector-java-8.0.23.jar' at /javafx-sdk-16/lib folder (if not included).
+Right click on project name>>Build Path>>Configure Build Path>>Libraries>>Modulepath>>Add JARS>>Select .jar file>>OK>>Apply and Close
 
 # Run project
 

@@ -1,0 +1,1995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_h0nSwL53EeuWH6hdtuvFWg">
+  <modelElement href="AdvancedDBs_v01.uml#_hqoQUL53EeuWH6hdtuvFWg"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMOhgL53EeuWH6hdtuvFWg" source="_iMQWsL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_huxwgL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNuWUL53EeuWH6hdtuvFWg" position="130.0,130.0"/>
+    <stereotypes xmi:id="_iMOhgb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_huxwgr53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMOhgr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMOhg753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_huxwgb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMOhhL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMOhhb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMOhhr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="OKbtn" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huLTkL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMOhh753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMOhiL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMPIkL53EeuWH6hdtuvFWg" source="_iMQWsL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_huxwg753EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNu9YL53EeuWH6hdtuvFWg" position="150.0,150.0"/>
+    <stereotypes xmi:id="_iMPIkb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_huyXkL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMPIkr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMPIk753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_huxwhL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMPIlL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMPIlb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMPIlr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="MessageLabel" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huL6or53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMPIl753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMPImL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMPvoL53EeuWH6hdtuvFWg" source="_iMQWsL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_huyXkb53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNu9Yb53EeuWH6hdtuvFWg" position="170.0,170.0"/>
+    <stereotypes xmi:id="_iMPvob53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_huy-oL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMPvor53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMPvo753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_huyXkr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMPvpL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMPvpb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMPvpr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="detailsLabel" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huL6pr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMPvp753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMPvqL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMPvqb53EeuWH6hdtuvFWg" source="_iMQWsL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_huy-ob53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNu9Yr53EeuWH6hdtuvFWg" position="190.0,190.0"/>
+    <stereotypes xmi:id="_iMPvqr53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_huy-o753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMPvq753EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMPvrL53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_huy-or53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMPvrb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMPvrr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMPvr753EeuWH6hdtuvFWg" aggregationKind="NONE" name="img" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huMhsb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMPvsL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMPvsb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMiDgL53EeuWH6hdtuvFWg" source="_iMj4wr53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_huy-pL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNu9Y753EeuWH6hdtuvFWg" position="210.0,210.0"/>
+    <stereotypes xmi:id="_iMiDgb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_huzlsL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMiDgr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMiDg753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_huy-pb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMiDhL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMiDhb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMiDhr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="years" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huNv0b53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMiDh753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMiDiL53EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMiDib53EeuWH6hdtuvFWg" sourceAnchor="460.0,196.0" targetAnchor="207.0,1335.0" target="_iNNY8L53EeuWH6hdtuvFWg" source="_iMj4wr53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_huzlsb53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNvkcL53EeuWH6hdtuvFWg" position="230.0,230.0"/>
+    <bendpoints xmi:id="_iXEfkL53EeuWH6hdtuvFWg" sourceX="409" targetY="251"/>
+    <stereotypes xmi:id="_iMiDir53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_huzls753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMiDi753EeuWH6hdtuvFWg" text="">
+      <visualProperties xmi:id="_iXG70L53EeuWH6hdtuvFWg" position="-41.5,-63.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_iMiDjL53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_huzlsr53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_iXEfkb53EeuWH6hdtuvFWg" position="1.5,-57.0"/>
+      <visibility xmi:id="_iMiDjb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMiDjr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMiDj753EeuWH6hdtuvFWg" aggregationKind="NONE" name="mainWindowController" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huNv1L53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_iXHi4L53EeuWH6hdtuvFWg" position="2.5,1.0000000000001137"/>
+      <visibility xmi:id="_iMiDkL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMiDkb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMiqkL53EeuWH6hdtuvFWg" source="_iMj4wr53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_huzltL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNvkcb53EeuWH6hdtuvFWg" position="250.0,250.0"/>
+    <stereotypes xmi:id="_iMiqkb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_huzltr53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMiqkr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMiqk753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_huzltb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMiqlL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMiqlb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMiqlr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="passwordField" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huNv1r53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMiql753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMiqmL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMjRoL53EeuWH6hdtuvFWg" source="_iMj4wr53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu0MwL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNvkcr53EeuWH6hdtuvFWg" position="270.0,270.0"/>
+    <stereotypes xmi:id="_iMjRob53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu0Mwr53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMjRor53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMjRo753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu0Mwb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMjRpL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMjRpb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMjRpr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="usernameField" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huOW4753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMjRp753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMjRqL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMjRqb53EeuWH6hdtuvFWg" source="_iMj4wr53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu0Mw753EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNvkc753EeuWH6hdtuvFWg" position="290.0,290.0"/>
+    <stereotypes xmi:id="_iMjRqr53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu0Mxb53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMjRq753EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMjRrL53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu0MxL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMjRrb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMjRrr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMjRr753EeuWH6hdtuvFWg" aggregationKind="NONE" name="vboxContainer" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huOW5753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMjRsL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMjRsb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMj4sL53EeuWH6hdtuvFWg" source="_iMj4wr53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu0Mxr53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNvkdL53EeuWH6hdtuvFWg" position="310.0,310.0"/>
+    <stereotypes xmi:id="_iMj4sb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu0z0L53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMj4sr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMj4s753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu0Mx753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMj4tL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMj4tb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMj4tr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="loader" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huO98r53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMj4t753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj4uL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMj4ub53EeuWH6hdtuvFWg" source="_iMj4wr53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu0z0b53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwLgL53EeuWH6hdtuvFWg" position="330.0,330.0"/>
+    <stereotypes xmi:id="_iMj4ur53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu0z0753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMj4u753EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMj4vL53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu0z0r53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMj4vb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMj4vr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMj4v753EeuWH6hdtuvFWg" aggregationKind="NONE" name="root1" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huO99L53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMj4wL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj4wb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMqmYL53EeuWH6hdtuvFWg" source="_iMsbkL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu0z1L53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwLgb53EeuWH6hdtuvFWg" position="350.0,350.0"/>
+    <stereotypes xmi:id="_iMrNc753EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu1a4L53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iMrNcL53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iMrNcb53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu0z1b53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMr0gb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMr0gL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iMrNcr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="okButton" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huPlAL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMr0g753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMr0gr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMwtAL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu7hhL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwyk753EeuWH6hdtuvFWg" position="510.0,510.0"/>
+    <stereotypes xmi:id="_iM4Bw753EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu7hhr53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iM4BwL53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iM4Bwb53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu7hhb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM7FEb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iM7FEL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iM4Bwr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="years" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hubLM753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM7FE753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iM7FEr53EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMwtAb53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu8vpL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNxZor53EeuWH6hdtuvFWg" position="610.0,610.0"/>
+    <stereotypes xmi:id="_iM4Bx753EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu8vpr53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iM4BxL53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iM4Bxb53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu8vpb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM7sIL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iM7FFb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iM4Bxr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="resources" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hucZV753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM7sIr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iM7sIb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMwtAr53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu8vp753EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNxZo753EeuWH6hdtuvFWg" position="630.0,630.0"/>
+    <stereotypes xmi:id="_iM4o0L53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu9WsL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iM4ByL53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iM4Byb53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu8vqL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM7sJr53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iM7sJb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iM4Byr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="location" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hudAY753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM7sKL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iM7sJ753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMwtA753EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu-k1L53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNyAs753EeuWH6hdtuvFWg" position="750.0,750.0"/>
+    <stereotypes xmi:id="_iM4o1L53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu_L4L53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iM4o0b53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iM4o0r53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu-k1b53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM8TMb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iM8TML53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iM4o0753EeuWH6hdtuvFWg" aggregationKind="NONE" name="scatterBtn" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hufcpL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM8TM753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iM8TMr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMxUEL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu_L4b53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNyAtL53EeuWH6hdtuvFWg" position="770.0,770.0"/>
+    <stereotypes xmi:id="_iM4o2L53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu_L4753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iM4o1b53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iM4o1r53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu_L4r53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM8TN753EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iM8TNr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iM4o1753EeuWH6hdtuvFWg" aggregationKind="NONE" name="timelinesBtn" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hugDsL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM8TOb53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iM8TOL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMxUEb53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu_L5L53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNyAtb53EeuWH6hdtuvFWg" position="790.0,790.0"/>
+    <stereotypes xmi:id="_iM4o3L53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu_y8L53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iM4o2b53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iM4o2r53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu_L5b53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM86Qb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iM86QL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iM4o2753EeuWH6hdtuvFWg" aggregationKind="NONE" name="addCountryButton" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hugDtL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM86Q753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iM86Qr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMxUEr53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu_y8b53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNynwL53EeuWH6hdtuvFWg" position="810.0,810.0"/>
+    <stereotypes xmi:id="_iM5P4b53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu_y8753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iM4o3b53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iM4o3r53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu_y8r53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM86R753EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iM86Rr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iM5P4L53EeuWH6hdtuvFWg" aggregationKind="NONE" name="barChartBtn" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hugDuL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM86Sb53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iM86SL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMxUE753EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu_y9L53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNynwb53EeuWH6hdtuvFWg" position="830.0,830.0"/>
+    <stereotypes xmi:id="_iM5P5b53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hvAaAL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iM5P4r53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iM5P4753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu_y9b53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM9hUb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iM9hUL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iM5P5L53EeuWH6hdtuvFWg" aggregationKind="NONE" name="addIndexButton" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hugqw753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM9hU753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iM9hUr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iMxUFL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hvAaAb53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNynwr53EeuWH6hdtuvFWg" position="850.0,850.0"/>
+    <stereotypes xmi:id="_iM5P6b53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hvAaA753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iM5P5r53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iM5P5753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hvAaAr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM9hV753EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iM9hVr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iM5P6L53EeuWH6hdtuvFWg" aggregationKind="NONE" name="vbox_id" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hugqx753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iM9hWb53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iM9hWL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNBLsL53EeuWH6hdtuvFWg" target="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu5FRL53EeuWH6hdtuvFWg"/>
+    <stereotypes xmi:id="_iNBLsb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu5sUL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNBLsr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNBLs753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu5FRb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNBLtL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNBLtb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNBLtr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="controller" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huWSsL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNBLt753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huWSsb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNBLuL53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNBLub53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNBywL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu5sVL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwLgr53EeuWH6hdtuvFWg" position="370.0,370.0"/>
+    <stereotypes xmi:id="_iNBywb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu5sVr53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNBywr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNByw753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu5sVb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNByxL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNByxb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNByxr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="mainengine" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huYu8L53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNByx753EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNByyL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNCZ0L53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu6TYL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwLg753EeuWH6hdtuvFWg" position="390.0,390.0"/>
+    <stereotypes xmi:id="_iNCZ0b53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu6TYr53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNCZ0r53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNCZ0753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu6TYb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNCZ1L53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNCZ1b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNCZ1r53EeuWH6hdtuvFWg" aggregationKind="NONE" name="selectedCountries" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huYu8r53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNCZ1753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNCZ2L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNCZ2b53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu6TY753EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwLhL53EeuWH6hdtuvFWg" position="410.0,410.0"/>
+    <stereotypes xmi:id="_iNCZ2r53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu6TZb53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNCZ2753EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNCZ3L53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu6TZL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNCZ3b53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNCZ3r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNCZ3753EeuWH6hdtuvFWg" aggregationKind="NONE" name="selectedIndexes" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huZWAb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNDA4L53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNDA4b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNDA4r53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu6TZr53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwLhb53EeuWH6hdtuvFWg" position="430.0,430.0"/>
+    <stereotypes xmi:id="_iNDA4753EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu66cL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNDA5L53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNDA5b53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu6TZ753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNDA5r53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNDA5753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNDA6L53EeuWH6hdtuvFWg" aggregationKind="NONE" name="selectedYears" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huZWBb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNDA6b53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNDA6r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNDn8L53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu66cb53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwykL53EeuWH6hdtuvFWg" position="450.0,450.0"/>
+    <stereotypes xmi:id="_iNDn8b53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu66c753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNDn8r53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNDn8753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu66cr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNDn9L53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNDn9b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNDn9r53EeuWH6hdtuvFWg" aggregationKind="NONE" name="indexSelectionModel" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huZ9Fr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNDn9753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNDn-L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNEPAL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu66dL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwykb53EeuWH6hdtuvFWg" position="470.0,470.0"/>
+    <stereotypes xmi:id="_iNEPAb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu7hgL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNEPAr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNEPA753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu66db53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNEPBL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNEPBb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNEPBr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="countrySelectionModel" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huakIr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNEPB753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNEPCL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNE2EL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu7hgb53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwykr53EeuWH6hdtuvFWg" position="490.0,490.0"/>
+    <stereotypes xmi:id="_iNE2Eb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu7hg753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNE2Er53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNE2E753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu7hgr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNE2FL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNE2Fb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNE2Fr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="yearSelectionModel" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hubLML53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNE2F753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNE2GL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNFdIL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu7hh753EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwylL53EeuWH6hdtuvFWg" position="530.0,530.0"/>
+    <stereotypes xmi:id="_iNFdIb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu8IkL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNFdIr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNFdI753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu7hiL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNFdJL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNFdJb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNFdJr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="fiveYearOption" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hubyQL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNFdJ753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNFdKL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNGEML53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu8Ikb53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNwylb53EeuWH6hdtuvFWg" position="550.0,550.0"/>
+    <stereotypes xmi:id="_iNGEMb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu8Ik753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNGEMr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNGEM753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu8Ikr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNGENL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNGENb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNGENr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="tenYearOption" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hubyRL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNGEN753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNGEOL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNHSUL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu8IlL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNxZoL53EeuWH6hdtuvFWg" position="570.0,570.0"/>
+    <stereotypes xmi:id="_iNHSUb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu8voL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNHSUr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNHSU753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu8Ilb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNHSVL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNHSVb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNHSVr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="twentyYearOption" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hubySL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNHSV753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNHSWL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNH5YL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu8vob53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNxZob53EeuWH6hdtuvFWg" position="590.0,590.0"/>
+    <stereotypes xmi:id="_iNH5Yb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu8vo753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNH5Yr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNH5Y753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu8vor53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNH5ZL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNH5Zb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNH5Zr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="perYearOption" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hucZU753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNH5Z753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNH5aL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNIgcL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu9Wsb53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNxZpL53EeuWH6hdtuvFWg" position="650.0,650.0"/>
+    <stereotypes xmi:id="_iNIgcb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu9Ws753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNIgcr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNIgc753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu9Wsr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNIgdL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNIgdb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNJHgL53EeuWH6hdtuvFWg" aggregationKind="NONE" name="Years_Table" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hudAZ753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNJHgb53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNJHgr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNJHg753EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu99wL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNxZpb53EeuWH6hdtuvFWg" position="670.0,670.0"/>
+    <stereotypes xmi:id="_iNJHhL53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu99wr53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNJHhb53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNJHhr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu99wb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNJHh753EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNJHiL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNJHib53EeuWH6hdtuvFWg" aggregationKind="NONE" name="yearCol" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hudndL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNJHir53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNJHi753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNJukL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu99w753EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNyAsL53EeuWH6hdtuvFWg" position="690.0,690.0"/>
+    <stereotypes xmi:id="_iNJukb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu99xb53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNJukr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNJuk753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu99xL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNJulL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNJulb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNJulr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="Countries_Table" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hueOg753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNJul753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNJumL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNKVoL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu99xr53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNyAsb53EeuWH6hdtuvFWg" position="710.0,710.0"/>
+    <stereotypes xmi:id="_iNKVob53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu-k0L53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNKVor53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNKVo753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu99x753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNKVpL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNKVpb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNKVpr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="cntrCol" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hue1kL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNKVp753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNKVqL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNK8sL53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu-k0b53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNyAsr53EeuWH6hdtuvFWg" position="730.0,730.0"/>
+    <stereotypes xmi:id="_iNK8sb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu-k0753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNK8sr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNK8s753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu-k0r53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNK8tL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNK8tb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNK8tr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="indexCol" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hue1lb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNK8t753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNK8uL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNMK0L53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hvAaBL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNynw753EeuWH6hdtuvFWg" position="870.0,870.0"/>
+    <stereotypes xmi:id="_iNMK0b53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hvAaBr53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNMK0r53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNMK0753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hvAaBb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNMK1L53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNMK1b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNMK1r53EeuWH6hdtuvFWg" aggregationKind="NONE" name="MenuBar_id" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huhR0753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNMK1753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNMK2L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNMx4L53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hvAaB753EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNynxL53EeuWH6hdtuvFWg" position="890.0,890.0"/>
+    <stereotypes xmi:id="_iNMx4b53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hvBBEL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNMx4r53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNMx4753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hvAaCL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNMx5L53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNMx5b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNMx5r53EeuWH6hdtuvFWg" aggregationKind="NONE" name="HealthIndexes_Table" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huhR1753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNMx5753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNMx6L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_iNMx6b53EeuWH6hdtuvFWg" source="_iNNY8L53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hvBBEb53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNzO0L53EeuWH6hdtuvFWg" position="910.0,910.0"/>
+    <stereotypes xmi:id="_iNMx6r53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hvBBE753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_iNMx6753EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_iNMx7L53EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hvBBEr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNMx7b53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNMx7r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_iNMx7753EeuWH6hdtuvFWg" aggregationKind="NONE" name="main" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huh45L53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNMx8L53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNMx8b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_iMQWsL53EeuWH6hdtuvFWg" name="AlertWindowController" associationsOut="_iMOhgL53EeuWH6hdtuvFWg _iMPIkL53EeuWH6hdtuvFWg _iMPvoL53EeuWH6hdtuvFWg _iMPvqb53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrWpEL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iMQWsb53EeuWH6hdtuvFWg" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_iMQWsr53EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_iMQWs753EeuWH6hdtuvFWg" name="OKbtn">
+      <modelElement href="AdvancedDBs_v01.uml#_huLTkL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMQWtL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huLTkb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMQWtb53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huL6oL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMQWtr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMQWt753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMQWuL53EeuWH6hdtuvFWg" name="Button">
+        <modelElement href="AdvancedDBs_v01.uml#_htL1EL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMQWub53EeuWH6hdtuvFWg" name="MessageLabel">
+      <modelElement href="AdvancedDBs_v01.uml#_huL6or53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMQWur53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huL6o753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMQWu753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huL6pL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMQWvL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMQWvb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMQWvr53EeuWH6hdtuvFWg" name="Label">
+        <modelElement href="AdvancedDBs_v01.uml#_htL1Er53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMQWv753EeuWH6hdtuvFWg" name="detailsLabel">
+      <modelElement href="AdvancedDBs_v01.uml#_huL6pr53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMQWwL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huL6p753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMQWwb53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huL6qL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMQWwr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMQWw753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMQWxL53EeuWH6hdtuvFWg" name="Label">
+        <modelElement href="AdvancedDBs_v01.uml#_htL1Er53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMQWxb53EeuWH6hdtuvFWg" name="img">
+      <modelElement href="AdvancedDBs_v01.uml#_huMhsb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMQWxr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huMhsr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMQWx753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huMhs753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMQWyL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMQWyb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMQWyr53EeuWH6hdtuvFWg" name="ImageView">
+        <modelElement href="AdvancedDBs_v01.uml#_htMcIb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMQWy753EeuWH6hdtuvFWg" name="message">
+      <modelElement href="AdvancedDBs_v01.uml#_huMhtb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMQWzL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huMhtr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMQWzb53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMQWzr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMQWz753EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMQW0L53EeuWH6hdtuvFWg" name="details">
+      <modelElement href="AdvancedDBs_v01.uml#_huMht753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMQW0b53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huMhuL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMQW0r53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMQW0753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMQW1L53EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMQW1b53EeuWH6hdtuvFWg" name="imageName">
+      <modelElement href="AdvancedDBs_v01.uml#_huNIwL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMQW1r53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huNIwb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMQW1753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMQW2L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMQW2b53EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_iMQW2r53EeuWH6hdtuvFWg" name="AlertWindowController">
+      <modelElement href="AdvancedDBs_v01.uml#_hrX3ML53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_iMQW2753EeuWH6hdtuvFWg" keyword="create"/>
+      <visibility xmi:id="_iMQW3L53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMQW3b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_iMQW3r53EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrX3Nr53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_iMQW3753EeuWH6hdtuvFWg" name="AlertWindowController">
+          <modelElement href="AdvancedDBs_v01.uml#_hrWpEL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_iMQW4L53EeuWH6hdtuvFWg" name="message">
+        <modelElement href="AdvancedDBs_v01.uml#_hrX3Mb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMQW4b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMQW4r53EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_iMQW4753EeuWH6hdtuvFWg" name="details">
+        <modelElement href="AdvancedDBs_v01.uml#_hrX3Mr53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMQW5L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMQW5b53EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_iMQW5r53EeuWH6hdtuvFWg" name="imageName">
+        <modelElement href="AdvancedDBs_v01.uml#_hrX3M753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMQW5753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMQW6L53EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iMQW6b53EeuWH6hdtuvFWg" name="initialize">
+      <modelElement href="AdvancedDBs_v01.uml#_htunoL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMQW6r53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_htvOsL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMQW6753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_htvOsb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMQW7L53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMQW7b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iMQW7r53EeuWH6hdtuvFWg" name="arg0">
+        <modelElement href="AdvancedDBs_v01.uml#_htunob53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMQW7753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMQW8L53EeuWH6hdtuvFWg" name="URL">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm8L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_iMQW8b53EeuWH6hdtuvFWg" name="arg1">
+        <modelElement href="AdvancedDBs_v01.uml#_htunor53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMQW8r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMQW8753EeuWH6hdtuvFWg" name="ResourceBundle">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm8r53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iMQW9L53EeuWH6hdtuvFWg" name="OkBtnOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_htvOs753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMQW9b53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_htv1wL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMQW9r53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_htv1wb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMQW9753EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iMQW-L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iMQW-b53EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_htvOtL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMQW-r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMQW-753EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_iMj4wr53EeuWH6hdtuvFWg" name="DatabaseWindowController" associationsOut="_iMiDgL53EeuWH6hdtuvFWg _iMiDib53EeuWH6hdtuvFWg _iMiqkL53EeuWH6hdtuvFWg _iMjRoL53EeuWH6hdtuvFWg _iMjRqb53EeuWH6hdtuvFWg _iMj4sL53EeuWH6hdtuvFWg _iMj4ub53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrZFUL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iMj4w753EeuWH6hdtuvFWg" position="191.0,936.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_iMj4xL53EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_iMj4xb53EeuWH6hdtuvFWg" name="_USERNAME">
+      <modelElement href="AdvancedDBs_v01.uml#_huNIwr53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj4xr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huNIw753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj4x753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj4yL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMj4yb53EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMj4yr53EeuWH6hdtuvFWg" name="_PASSWORD">
+      <modelElement href="AdvancedDBs_v01.uml#_huNIxL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj4y753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huNv0L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj4zL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj4zb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMj4zr53EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMj4z753EeuWH6hdtuvFWg" name="years">
+      <modelElement href="AdvancedDBs_v01.uml#_huNv0b53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj40L53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huNv0753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj40b53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj40r53EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_iMj40753EeuWH6hdtuvFWg" name="Year">
+        <modelElement href="AdvancedDBs_v01.uml#_hrnHwL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMj41L53EeuWH6hdtuvFWg" name="mainWindowController">
+      <modelElement href="AdvancedDBs_v01.uml#_huNv1L53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj41b53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huNv1b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj41r53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj41753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMj42L53EeuWH6hdtuvFWg" name="MainWindowController">
+        <modelElement href="AdvancedDBs_v01.uml#_hr1xQL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMj42b53EeuWH6hdtuvFWg" name="passwordField">
+      <modelElement href="AdvancedDBs_v01.uml#_huNv1r53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj42r53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huOW4L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMj42753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huOW4b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj43L53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj43b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMj43r53EeuWH6hdtuvFWg" name="PasswordField">
+        <modelElement href="AdvancedDBs_v01.uml#_htPfc753EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMj43753EeuWH6hdtuvFWg" name="usernameField">
+      <modelElement href="AdvancedDBs_v01.uml#_huOW4753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj44L53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huOW5L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMj44b53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huOW5b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj44r53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj44753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMj45L53EeuWH6hdtuvFWg" name="TextField">
+        <modelElement href="AdvancedDBs_v01.uml#_htPfdb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMj45b53EeuWH6hdtuvFWg" name="vboxContainer">
+      <modelElement href="AdvancedDBs_v01.uml#_huOW5753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj45r53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huOW6L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMj45753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huO98L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj46L53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj46b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMj46r53EeuWH6hdtuvFWg" name="VBox">
+        <modelElement href="AdvancedDBs_v01.uml#_htQGgb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMj46753EeuWH6hdtuvFWg" name="loader">
+      <modelElement href="AdvancedDBs_v01.uml#_huO98r53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj47L53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huO98753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj47b53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj47r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMj47753EeuWH6hdtuvFWg" name="FXMLLoader">
+        <modelElement href="AdvancedDBs_v01.uml#_htO4Y753EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iMj48L53EeuWH6hdtuvFWg" name="root1">
+      <modelElement href="AdvancedDBs_v01.uml#_huO99L53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj48b53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huO99b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj48r53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMj48753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMj49L53EeuWH6hdtuvFWg" name="Parent">
+        <modelElement href="AdvancedDBs_v01.uml#_htO4Zb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_iMj49b53EeuWH6hdtuvFWg" name="DatabaseWindowController">
+      <modelElement href="AdvancedDBs_v01.uml#_hrZsYL53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_iMj49r53EeuWH6hdtuvFWg" keyword="create"/>
+      <stereotypes xmi:id="_iMj49753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hraTcL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj4-L53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMj4-b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_iMj4-r53EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hraTcb53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_iMj4-753EeuWH6hdtuvFWg" name="DatabaseWindowController">
+          <modelElement href="AdvancedDBs_v01.uml#_hrZFUL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_iMj4_L53EeuWH6hdtuvFWg" name="initializeTables">
+      <modelElement href="AdvancedDBs_v01.uml#_hraTcr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMj4_b53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMj4_r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_iMj4_753EeuWH6hdtuvFWg" name="getUsername">
+      <modelElement href="AdvancedDBs_v01.uml#_hraTc753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMj5AL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMj5Ab53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_iMj5Ar53EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hraTdL53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_iMj5A753EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_iMj5BL53EeuWH6hdtuvFWg" name="getPassword">
+      <modelElement href="AdvancedDBs_v01.uml#_hraTdb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMj5Bb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMj5Br53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_iMj5B753EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hra6gL53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_iMj5CL53EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_iMj5Cb53EeuWH6hdtuvFWg" name="setLoader">
+      <modelElement href="AdvancedDBs_v01.uml#_htQtkL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iMj5Cr53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMj5C753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iMj5DL53EeuWH6hdtuvFWg" name="mainWindowController">
+        <modelElement href="AdvancedDBs_v01.uml#_htQtkb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMj5Db53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMj5Dr53EeuWH6hdtuvFWg" name="MainWindowController">
+          <modelElement href="AdvancedDBs_v01.uml#_hr1xQL53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iMj5D753EeuWH6hdtuvFWg" name="initialize">
+      <modelElement href="AdvancedDBs_v01.uml#_htxD4L53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj5EL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_htxD4753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMj5Eb53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_htxD5L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj5Er53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMj5E753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iMj5FL53EeuWH6hdtuvFWg" name="arg0">
+        <modelElement href="AdvancedDBs_v01.uml#_htxD4b53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMj5Fb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMj5Fr53EeuWH6hdtuvFWg" name="URL">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm8L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_iMj5F753EeuWH6hdtuvFWg" name="arg1">
+        <modelElement href="AdvancedDBs_v01.uml#_htxD4r53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMj5GL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMj5Gb53EeuWH6hdtuvFWg" name="ResourceBundle">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm8r53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iMj5Gr53EeuWH6hdtuvFWg" name="connectDBonAction">
+      <modelElement href="AdvancedDBs_v01.uml#_htxq9L53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMj5G753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_htySAL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMj5HL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_htySAb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMj5Hb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMj5Hr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iMj5H753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_htxq9b53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMj5IL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMj5Ib53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_iMsbkL53EeuWH6hdtuvFWg" name="MessageConnectedDBcontroller" associationsOut="_iMqmYL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrcIoL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iMsbkb53EeuWH6hdtuvFWg" position="231.0,1412.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_iMsbkr53EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_iMsbk753EeuWH6hdtuvFWg" name="okButton">
+      <modelElement href="AdvancedDBs_v01.uml#_huPlAL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMsblL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huPlAb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMsblb53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huPlAr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMsblr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iMsbl753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iMsbmL53EeuWH6hdtuvFWg" name="Button">
+        <modelElement href="AdvancedDBs_v01.uml#_htL1EL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_iMsbmb53EeuWH6hdtuvFWg" name="okBtnOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_hty5Eb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMsbmr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_htzgIL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMsbm753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_htzgIb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMsbnL53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iMsbnb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iMsbnr53EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_hty5Er53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMsbn753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMsboL53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iMsbob53EeuWH6hdtuvFWg" name="initialize">
+      <modelElement href="AdvancedDBs_v01.uml#_htzgI753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iMsbor53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_htzgJr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iMsbo753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_ht0HML53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iMsbpL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iMsbpb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iMsbpr53EeuWH6hdtuvFWg" name="arg0">
+        <modelElement href="AdvancedDBs_v01.uml#_htzgJL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMsbp753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMsbqL53EeuWH6hdtuvFWg" name="URL">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm8L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_iMsbqb53EeuWH6hdtuvFWg" name="arg1">
+        <modelElement href="AdvancedDBs_v01.uml#_htzgJb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iMsbqr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iMsbq753EeuWH6hdtuvFWg" name="ResourceBundle">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm8r53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_iNNY8L53EeuWH6hdtuvFWg" name="MainWindowController" associationsIn="_iMiDib53EeuWH6hdtuvFWg _iNBLsL53EeuWH6hdtuvFWg" associationsOut="_iMwtAL53EeuWH6hdtuvFWg _iMwtAb53EeuWH6hdtuvFWg _iMwtAr53EeuWH6hdtuvFWg _iMwtA753EeuWH6hdtuvFWg _iMxUEL53EeuWH6hdtuvFWg _iMxUEb53EeuWH6hdtuvFWg _iMxUEr53EeuWH6hdtuvFWg _iMxUE753EeuWH6hdtuvFWg _iMxUFL53EeuWH6hdtuvFWg _iNBywL53EeuWH6hdtuvFWg _iNCZ0L53EeuWH6hdtuvFWg _iNCZ2b53EeuWH6hdtuvFWg _iNDA4r53EeuWH6hdtuvFWg _iNDn8L53EeuWH6hdtuvFWg _iNEPAL53EeuWH6hdtuvFWg _iNE2EL53EeuWH6hdtuvFWg _iNFdIL53EeuWH6hdtuvFWg _iNGEML53EeuWH6hdtuvFWg _iNHSUL53EeuWH6hdtuvFWg _iNH5YL53EeuWH6hdtuvFWg _iNIgcL53EeuWH6hdtuvFWg _iNJHg753EeuWH6hdtuvFWg _iNJukL53EeuWH6hdtuvFWg _iNKVoL53EeuWH6hdtuvFWg _iNK8sL53EeuWH6hdtuvFWg _iNMK0L53EeuWH6hdtuvFWg _iNMx4L53EeuWH6hdtuvFWg _iNMx6b53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hr1xQL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_iNNY8b53EeuWH6hdtuvFWg" position="853.0,-454.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_iNNY8r53EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_iNNY8753EeuWH6hdtuvFWg" name="mainengine">
+      <modelElement href="AdvancedDBs_v01.uml#_huYu8L53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNY9L53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huYu8b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNY9b53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNY9r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNY9753EeuWH6hdtuvFWg" name="MainEngine">
+        <modelElement href="AdvancedDBs_v01.uml#_hrd90L53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNY-L53EeuWH6hdtuvFWg" defaultValue="new ArrayList&lt;>()" name="selectedCountries">
+      <modelElement href="AdvancedDBs_v01.uml#_huYu8r53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNY-b53EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_huYu8753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNY-r53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huZWAL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNY-753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNY_L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNY_b53EeuWH6hdtuvFWg" name="ArrayList">
+        <modelElement href="AdvancedDBs_v01.uml#_htORU753EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNY_r53EeuWH6hdtuvFWg" defaultValue="new ArrayList&lt;>()" name="selectedIndexes">
+      <modelElement href="AdvancedDBs_v01.uml#_huZWAb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNY_753EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_huZWAr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZAL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huZWBL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZAb53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZAr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZA753EeuWH6hdtuvFWg" name="ArrayList">
+        <modelElement href="AdvancedDBs_v01.uml#_htORU753EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZBL53EeuWH6hdtuvFWg" defaultValue="new ArrayList&lt;>()" name="selectedYears">
+      <modelElement href="AdvancedDBs_v01.uml#_huZWBb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZBb53EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_huZ9EL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZBr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huZ9Er53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZB753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZCL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZCb53EeuWH6hdtuvFWg" name="ArrayList">
+        <modelElement href="AdvancedDBs_v01.uml#_htORU753EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZCr53EeuWH6hdtuvFWg" defaultValue="1" name="yearAggregationType">
+      <modelElement href="AdvancedDBs_v01.uml#_huZ9E753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZC753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huZ9Fb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZDL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZDb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZDr53EeuWH6hdtuvFWg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZD753EeuWH6hdtuvFWg" name="indexSelectionModel">
+      <modelElement href="AdvancedDBs_v01.uml#_huZ9Fr53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZEL53EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_huakIL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZEb53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huakIb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZEr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZE753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZFL53EeuWH6hdtuvFWg" name="TableViewSelectionModel">
+        <modelElement href="AdvancedDBs_v01.uml#_htjBc753EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZFb53EeuWH6hdtuvFWg" name="countrySelectionModel">
+      <modelElement href="AdvancedDBs_v01.uml#_huakIr53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZFr53EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_huakI753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZF753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huakJL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZGL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZGb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZGr53EeuWH6hdtuvFWg" name="TableViewSelectionModel">
+        <modelElement href="AdvancedDBs_v01.uml#_htjBc753EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZG753EeuWH6hdtuvFWg" name="yearSelectionModel">
+      <modelElement href="AdvancedDBs_v01.uml#_hubLML53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZHL53EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_hubLMb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZHb53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hubLMr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZHr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZH753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZIL53EeuWH6hdtuvFWg" name="TableViewSelectionModel">
+        <modelElement href="AdvancedDBs_v01.uml#_htjBc753EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZIb53EeuWH6hdtuvFWg" name="years">
+      <modelElement href="AdvancedDBs_v01.uml#_hubLM753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZIr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hubLNb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZI753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZJL53EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_iNNZJb53EeuWH6hdtuvFWg" name="Year">
+        <modelElement href="AdvancedDBs_v01.uml#_hrnHwL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZJr53EeuWH6hdtuvFWg" name="fiveYearOption">
+      <modelElement href="AdvancedDBs_v01.uml#_hubyQL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZJ753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hubyQb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZKL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hubyQr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZKb53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZKr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZK753EeuWH6hdtuvFWg" name="RadioMenuItem">
+        <modelElement href="AdvancedDBs_v01.uml#_htiaYb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZLL53EeuWH6hdtuvFWg" name="tenYearOption">
+      <modelElement href="AdvancedDBs_v01.uml#_hubyRL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZLb53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hubyRb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZLr53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hubyRr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZL753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZML53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZMb53EeuWH6hdtuvFWg" name="RadioMenuItem">
+        <modelElement href="AdvancedDBs_v01.uml#_htiaYb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZMr53EeuWH6hdtuvFWg" name="twentyYearOption">
+      <modelElement href="AdvancedDBs_v01.uml#_hubySL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZM753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hucZUL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZNL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hucZUb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZNb53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZNr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZN753EeuWH6hdtuvFWg" name="RadioMenuItem">
+        <modelElement href="AdvancedDBs_v01.uml#_htiaYb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZOL53EeuWH6hdtuvFWg" name="perYearOption">
+      <modelElement href="AdvancedDBs_v01.uml#_hucZU753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZOb53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hucZVL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZOr53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hucZVb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZO753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZPL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZPb53EeuWH6hdtuvFWg" name="RadioMenuItem">
+        <modelElement href="AdvancedDBs_v01.uml#_htiaYb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZPr53EeuWH6hdtuvFWg" name="resources">
+      <modelElement href="AdvancedDBs_v01.uml#_hucZV753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZP753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hudAYL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZQL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hudAYb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZQb53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZQr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZQ753EeuWH6hdtuvFWg" name="ResourceBundle">
+        <modelElement href="AdvancedDBs_v01.uml#_htKm8r53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZRL53EeuWH6hdtuvFWg" name="location">
+      <modelElement href="AdvancedDBs_v01.uml#_hudAY753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZRb53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hudAZL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZRr53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hudAZb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZR753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZSL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZSb53EeuWH6hdtuvFWg" name="URL">
+        <modelElement href="AdvancedDBs_v01.uml#_htKm8L53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZSr53EeuWH6hdtuvFWg" name="Years_Table">
+      <modelElement href="AdvancedDBs_v01.uml#_hudAZ753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZS753EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_hudncL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZTL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hudncb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZTb53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hudncr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZTr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZT753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZUL53EeuWH6hdtuvFWg" name="TableView">
+        <modelElement href="AdvancedDBs_v01.uml#_htjBcb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZUb53EeuWH6hdtuvFWg" name="yearCol">
+      <modelElement href="AdvancedDBs_v01.uml#_hudndL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZUr53EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_hudndb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZU753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hueOgL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZVL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hueOgb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZVb53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZVr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZV753EeuWH6hdtuvFWg" name="TableColumn">
+        <modelElement href="AdvancedDBs_v01.uml#_htiaZb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZWL53EeuWH6hdtuvFWg" name="Countries_Table">
+      <modelElement href="AdvancedDBs_v01.uml#_hueOg753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZWb53EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_hueOhL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZWr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hueOhb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZW753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hueOhr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZXL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZXb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZXr53EeuWH6hdtuvFWg" name="TableView">
+        <modelElement href="AdvancedDBs_v01.uml#_htjBcb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZX753EeuWH6hdtuvFWg" name="cntrCol">
+      <modelElement href="AdvancedDBs_v01.uml#_hue1kL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZYL53EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_hue1kb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZYb53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hue1kr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZYr53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hue1k753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZY753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZZL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZZb53EeuWH6hdtuvFWg" name="TableColumn">
+        <modelElement href="AdvancedDBs_v01.uml#_htiaZb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZZr53EeuWH6hdtuvFWg" name="indexCol">
+      <modelElement href="AdvancedDBs_v01.uml#_hue1lb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZZ753EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_hufcoL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZaL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hufcob53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZab53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hufcor53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZar53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZa753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZbL53EeuWH6hdtuvFWg" name="TableColumn">
+        <modelElement href="AdvancedDBs_v01.uml#_htiaZb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZbb53EeuWH6hdtuvFWg" name="scatterBtn">
+      <modelElement href="AdvancedDBs_v01.uml#_hufcpL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZbr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hufcpb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZb753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hufcpr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZcL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZcb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZcr53EeuWH6hdtuvFWg" name="Button">
+        <modelElement href="AdvancedDBs_v01.uml#_htL1EL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZc753EeuWH6hdtuvFWg" name="timelinesBtn">
+      <modelElement href="AdvancedDBs_v01.uml#_hugDsL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZdL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hugDsb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZdb53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hugDsr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZdr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZd753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZeL53EeuWH6hdtuvFWg" name="Button">
+        <modelElement href="AdvancedDBs_v01.uml#_htL1EL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZeb53EeuWH6hdtuvFWg" name="addCountryButton">
+      <modelElement href="AdvancedDBs_v01.uml#_hugDtL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZer53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hugDtb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZe753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hugDtr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZfL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZfb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZfr53EeuWH6hdtuvFWg" name="Button">
+        <modelElement href="AdvancedDBs_v01.uml#_htL1EL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZf753EeuWH6hdtuvFWg" name="barChartBtn">
+      <modelElement href="AdvancedDBs_v01.uml#_hugDuL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZgL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hugqwL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZgb53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hugqwb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZgr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZg753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZhL53EeuWH6hdtuvFWg" name="Button">
+        <modelElement href="AdvancedDBs_v01.uml#_htL1EL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZhb53EeuWH6hdtuvFWg" name="addIndexButton">
+      <modelElement href="AdvancedDBs_v01.uml#_hugqw753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZhr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hugqxL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZh753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hugqxb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZiL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZib53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZir53EeuWH6hdtuvFWg" name="Button">
+        <modelElement href="AdvancedDBs_v01.uml#_htL1EL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZi753EeuWH6hdtuvFWg" name="vbox_id">
+      <modelElement href="AdvancedDBs_v01.uml#_hugqx753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZjL53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huhR0L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZjb53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huhR0b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZjr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZj753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZkL53EeuWH6hdtuvFWg" name="VBox">
+        <modelElement href="AdvancedDBs_v01.uml#_htQGgb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZkb53EeuWH6hdtuvFWg" name="MenuBar_id">
+      <modelElement href="AdvancedDBs_v01.uml#_huhR0753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZkr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huhR1L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZk753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huhR1b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZlL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZlb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZlr53EeuWH6hdtuvFWg" name="MenuBar">
+        <modelElement href="AdvancedDBs_v01.uml#_hthzU753EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZl753EeuWH6hdtuvFWg" name="HealthIndexes_Table">
+      <modelElement href="AdvancedDBs_v01.uml#_huhR1753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZmL53EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_huh44L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZmb53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huh44b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZmr53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huh44r53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZm753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZnL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZnb53EeuWH6hdtuvFWg" name="TableView">
+        <modelElement href="AdvancedDBs_v01.uml#_htjBcb53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_iNNZnr53EeuWH6hdtuvFWg" name="main">
+      <modelElement href="AdvancedDBs_v01.uml#_huh45L53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZn753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huh45b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZoL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZob53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_iNNZor53EeuWH6hdtuvFWg" name="Main">
+        <modelElement href="AdvancedDBs_v01.uml#_hrvDkL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_iNNZo753EeuWH6hdtuvFWg" name="MainWindowController">
+      <modelElement href="AdvancedDBs_v01.uml#_hr2_YL53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_iNNZpL53EeuWH6hdtuvFWg" keyword="create"/>
+      <stereotypes xmi:id="_iNNZpb53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hr2_Y753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZpr53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNNZp753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_iNNZqL53EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hr2_ZL53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_iNNZqb53EeuWH6hdtuvFWg" name="MainWindowController">
+          <modelElement href="AdvancedDBs_v01.uml#_hr1xQL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_iNNZqr53EeuWH6hdtuvFWg" name="initialize">
+      <modelElement href="AdvancedDBs_v01.uml#_hr3mcL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZq753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hr3mcb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZrL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_hr4NgL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZrb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNNZrr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_iNNZr753EeuWH6hdtuvFWg" name="openChartWindow">
+      <modelElement href="AdvancedDBs_v01.uml#_hr4Ngr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNNZsL53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZsb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNZsr53EeuWH6hdtuvFWg" name="chartType">
+        <modelElement href="AdvancedDBs_v01.uml#_hr4Ng753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNZs753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNZtL53EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNZtb53EeuWH6hdtuvFWg" name="checkForEmptyIndex">
+      <modelElement href="AdvancedDBs_v01.uml#_hr40kL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZtr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hr40kb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZt753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZuL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_iNNZub53EeuWH6hdtuvFWg" name="resetupValidYears">
+      <modelElement href="AdvancedDBs_v01.uml#_hr40kr53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZur53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hr40k753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZu753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZvL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_iNNZvb53EeuWH6hdtuvFWg" name="indexTableInit">
+      <modelElement href="AdvancedDBs_v01.uml#_hr40lL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNNZvr53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNNZv753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_iNNZwL53EeuWH6hdtuvFWg" name="countryTableInit">
+      <modelElement href="AdvancedDBs_v01.uml#_hr5boL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNNZwb53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNNZwr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_iNNZw753EeuWH6hdtuvFWg" name="yearTableInit">
+      <modelElement href="AdvancedDBs_v01.uml#_hr5bob53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNNZxL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNNZxb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_iNNZxr53EeuWH6hdtuvFWg" name="handleError">
+      <modelElement href="AdvancedDBs_v01.uml#_hr5bor53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNNZx753EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZyL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_iNNZyb53EeuWH6hdtuvFWg" name="changeYearOption">
+      <modelElement href="AdvancedDBs_v01.uml#_hr5bo753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNNZyr53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZy753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNZzL53EeuWH6hdtuvFWg" name="option">
+        <modelElement href="AdvancedDBs_v01.uml#_hr5bpL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNZzb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNZzr53EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNZz753EeuWH6hdtuvFWg" name="resetSelectedList">
+      <modelElement href="AdvancedDBs_v01.uml#_hr6CsL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNNZ0L53EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_iNNZ0b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNZ0r53EeuWH6hdtuvFWg" name="list">
+        <modelElement href="AdvancedDBs_v01.uml#_hr6Csb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNZ0753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNZ1L53EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNZ1b53EeuWH6hdtuvFWg" name="setMain">
+      <modelElement href="AdvancedDBs_v01.uml#_htkPkL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_iNNZ1r53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNNZ1753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNZ2L53EeuWH6hdtuvFWg" name="main">
+        <modelElement href="AdvancedDBs_v01.uml#_htkPkb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNZ2b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNZ2r53EeuWH6hdtuvFWg" name="Main">
+          <modelElement href="AdvancedDBs_v01.uml#_hrvDkL53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNZ2753EeuWH6hdtuvFWg" name="initialize">
+      <modelElement href="AdvancedDBs_v01.uml#_huA7gL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZ3L53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huBikL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZ3b53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huBikb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZ3r53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_iNNZ3753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNZ4L53EeuWH6hdtuvFWg" name="arg0">
+        <modelElement href="AdvancedDBs_v01.uml#_huA7gb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNZ4b53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNZ4r53EeuWH6hdtuvFWg" name="URL">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm8L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_iNNZ4753EeuWH6hdtuvFWg" name="arg1">
+        <modelElement href="AdvancedDBs_v01.uml#_huA7gr53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNZ5L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNZ5b53EeuWH6hdtuvFWg" name="ResourceBundle">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm8r53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNZ5r53EeuWH6hdtuvFWg" name="timelinesOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huBik753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZ5753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huBilb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZ6L53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huCJoL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZ6b53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNZ6r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNZ6753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huBilL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNZ7L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNZ7b53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNZ7r53EeuWH6hdtuvFWg" name="handleScatterButtonAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huCJor53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZ7753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huCJpL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZ8L53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huCJpb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZ8b53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNZ8r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNZ8753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huCJo753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNZ9L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNZ9b53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNZ9r53EeuWH6hdtuvFWg" name="barChartBtnOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huCJp753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZ9753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huCwsL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNZ-L53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huCwsb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNZ-b53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNZ-r53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNZ-753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huCJqL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNZ_L53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNZ_b53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNZ_r53EeuWH6hdtuvFWg" name="addCountryBtnOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huCws753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNZ_753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huCwtb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaAL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huCwtr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaAb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaAr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaA753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huCwtL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaBL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaBb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNaBr53EeuWH6hdtuvFWg" name="resetCountriesBtnOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huDXwb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNaB753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huDXw753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaCL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huDXxL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaCb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaCr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaC753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huDXwr53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaDL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaDb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNaDr53EeuWH6hdtuvFWg" name="addIndexBtnOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huDXxr53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNaD753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huD-0b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaEL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huD-0r53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaEb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaEr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaE753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huD-0L53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaFL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaFb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNaFr53EeuWH6hdtuvFWg" name="resetIndexBtnOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huD-1L53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNaF753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huD-1r53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaGL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huEl4L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaGb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaGr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaG753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huD-1b53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaHL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaHb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNaHr53EeuWH6hdtuvFWg" name="addYearBtnOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huEl4r53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNaH753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huEl5L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaIL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huEl5b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaIb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaIr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaI753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huEl4753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaJL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaJb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNaJr53EeuWH6hdtuvFWg" name="resetYearsOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huEl5753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNaJ753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huFM8b53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaKL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huFM8r53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaKb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaKr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaK753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huFM8L53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaLL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaLb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNaLr53EeuWH6hdtuvFWg" name="connectDB_BtnOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huFM9L53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNaL753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huF0AL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaML53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huF0Ab53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaMb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaMr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaM753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huFM9b53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaNL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaNb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNaNr53EeuWH6hdtuvFWg" name="twentyYearOptionOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huF0A753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNaN753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huF0Bb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaOL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huF0Br53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaOb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaOr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaO753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huF0BL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaPL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaPb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNaPr53EeuWH6hdtuvFWg" name="perYearOptionOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huGbEL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNaP753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huGbEr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaQL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huGbE753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaQb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaQr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaQ753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huGbEb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaRL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaRb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNaRr53EeuWH6hdtuvFWg" name="fiveYearOptionOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huGbFb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNaR753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huHCIL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaSL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huHCIb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaSb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaSr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaS753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huGbFr53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaTL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaTb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_iNNaTr53EeuWH6hdtuvFWg" name="tenYearOptionOnAction">
+      <modelElement href="AdvancedDBs_v01.uml#_huHCI753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_iNNaT753EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huHCJb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_iNNaUL53EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_huHCJr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_iNNaUb53EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_iNNaUr53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_iNNaU753EeuWH6hdtuvFWg" name="event">
+        <modelElement href="AdvancedDBs_v01.uml#_huHCJL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_iNNaVL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_iNNaVb53EeuWH6hdtuvFWg" name="ActionEvent">
+          <modelElement href="AdvancedDBs_v01.uml#_htKm9L53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

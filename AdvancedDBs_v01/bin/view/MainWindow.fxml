@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<VBox fx:id="vbox_id" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="608.0" prefWidth="1276.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <MenuBar fx:id="MenuBar_id">
+        <menus>
+          <Menu mnemonicParsing="false" text="Database">
+            <items>
+              <MenuItem fx:id="connectDB_Btn" mnemonicParsing="false" onAction="#connectDB_BtnOnAction" text="Connect to DB" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Year settings">
+               <items>
+                  <RadioMenuItem fx:id="perYearOption" mnemonicParsing="false" onAction="#perYearOptionOnAction" selected="true" text="Per year">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="yearsSettingsRadioBtnGroup" />
+                     </toggleGroup>
+                  </RadioMenuItem>
+                  <RadioMenuItem fx:id="fiveYearOption" mnemonicParsing="false" onAction="#fiveYearOptionOnAction" text="Per 5 years" toggleGroup="$yearsSettingsRadioBtnGroup" />
+                  <RadioMenuItem fx:id="tenYearOption" mnemonicParsing="false" onAction="#tenYearOptionOnAction" text="Per 10 years" toggleGroup="$yearsSettingsRadioBtnGroup" />
+                  <RadioMenuItem fx:id="twentyYearOption" mnemonicParsing="false" onAction="#twentyYearOptionOnAction" text="Per 20 years" toggleGroup="$yearsSettingsRadioBtnGroup" />
+               </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <Pane prefHeight="586.0" prefWidth="1098.0" style="-fx-background-color: #4F4E4E;">
+         <children>
+            <TableView fx:id="HealthIndexes_Table" layoutX="32.0" layoutY="133.0" prefHeight="311.0" prefWidth="274.0" style="-fx-background-color: #4F4E4E; -fx-border-color: white;">
+              <columns>
+                <TableColumn fx:id="indexCol" prefWidth="272.0" text="Health Indexes" />
+              </columns>
+               <effect>
+                  <DropShadow blurType="ONE_PASS_BOX" color="WHITE" height="39.66" radius="15.442499999999999" width="24.11" />
+               </effect>
+            </TableView>
+            <TableView fx:id="Countries_Table" layoutX="336.0" layoutY="133.0" prefHeight="311.0" prefWidth="274.0" style="-fx-background-color: #4F4E4E; -fx-border-color: white;">
+               <columns>
+                  <TableColumn fx:id="cntrCol" prefWidth="272.0" text="Countries" />
+               </columns>
+               <effect>
+                  <DropShadow blurType="ONE_PASS_BOX" color="WHITE" height="48.99" radius="17.775" width="24.11" />
+               </effect>
+            </TableView>
+            <TableView fx:id="Years_Table" layoutX="638.0" layoutY="133.0" prefHeight="311.0" prefWidth="291.0" style="-fx-background-color: #4F4E4E; -fx-border-color: white;">
+               <columns>
+                  <TableColumn fx:id="yearCol" prefWidth="290.0" text="Years" />
+               </columns>
+               <effect>
+                  <DropShadow blurType="ONE_PASS_BOX" color="WHITE" height="53.66" radius="18.9425" width="24.11" />
+               </effect>
+            </TableView>
+            <SplitPane dividerPositions="0.3169642857142857, 0.6651785714285714" layoutX="988.0" layoutY="176.0" orientation="VERTICAL" prefHeight="226.0" prefWidth="236.0">
+              <items>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="64.0" prefWidth="125.0">
+                     <children>
+                        <Button fx:id="timelinesBtn" layoutY="-3.0" mnemonicParsing="false" onAction="#timelinesOnAction" prefHeight="78.0" prefWidth="234.0" style="-fx-background-color: #4F4E4E; -fx-border-color: white;" text="Timelines" textFill="WHITE">
+                           <font>
+                              <Font name="Trebuchet MS" size="17.0" />
+                           </font>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor>
+                           <graphic>
+                              <ImageView fitHeight="28.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@images/line-chart.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </AnchorPane>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="235.0" prefWidth="234.0">
+                     <children>
+                        <Button fx:id="scatterBtn" layoutY="-3.0" mnemonicParsing="false" onAction="#handleScatterButtonAction" prefHeight="78.0" prefWidth="234.0" style="-fx-background-color: #4F4E4E; -fx-border-color: white;" text="Scatter Plot" textFill="WHITE">
+                           <font>
+                              <Font name="Trebuchet MS" size="17.0" />
+                           </font>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor>
+                           <graphic>
+                              <ImageView fitHeight="28.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@images/scatter-graph.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="92.0" prefWidth="229.0">
+                     <children>
+                        <Button fx:id="barChartBtn" layoutY="-3.0" mnemonicParsing="false" onAction="#barChartBtnOnAction" prefHeight="78.0" prefWidth="234.0" style="-fx-background-color: #4F4E4E; -fx-border-color: white;" text="Bar Chart" textFill="WHITE">
+                           <font>
+                              <Font name="Trebuchet MS" size="17.0" />
+                           </font>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor>
+                           <graphic>
+                              <ImageView fitHeight="28.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@images/stats.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </AnchorPane>
+              </items>
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+               <effect>
+                  <DropShadow blurType="ONE_PASS_BOX" color="WHITE" height="36.55" radius="11.1375" width="10.0" />
+               </effect>
+            </SplitPane>
+            <FlowPane layoutX="84.0" layoutY="456.0" prefHeight="95.0" prefWidth="161.0" style="-fx-background-color: white;">
+               <children>
+                  <Button id="Add_indexButton" fx:id="addIndexButton" blendMode="DARKEN" mnemonicParsing="false" onAction="#addIndexBtnOnAction" prefHeight="60.0" prefWidth="169.0" style="-fx-background-color: #4F4E4E; -fx-border-color: #FEFEFE;" text="Add Index" textAlignment="JUSTIFY" textFill="WHITE">
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                     <font>
+                        <Font name="Trebuchet MS" size="13.0" />
+                     </font>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="18.67" radius="8.64" width="17.89" />
+                     </effect>
+                     <graphic>
+                        <ImageView fitHeight="24.0" fitWidth="31.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@images/index.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button id="Add_indexButton" fx:id="addIndexButton1" blendMode="DARKEN" mnemonicParsing="false" onAction="#resetIndexBtnOnAction" prefHeight="34.0" prefWidth="169.0" style="-fx-background-color: #4F4E4E; -fx-border-color: #FEFEFE;" text="Reset Indexes" textAlignment="JUSTIFY" textFill="WHITE">
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="19.45" radius="8.835" width="17.89" />
+                     </effect>
+                     <font>
+                        <Font name="Trebuchet MS" size="13.0" />
+                     </font>
+                  </Button>
+               </children>
+            </FlowPane>
+            <FlowPane layoutX="388.0" layoutY="456.0" prefHeight="95.0" prefWidth="161.0" style="-fx-background-color: white;">
+               <children>
+                  <Button id="Add_indexButton" fx:id="addCountryButton" blendMode="DARKEN" mnemonicParsing="false" onAction="#addCountryBtnOnAction" prefHeight="60.0" prefWidth="169.0" style="-fx-background-color: #4F4E4E; -fx-border-color: #FEFEFE;" text="Add Country" textAlignment="JUSTIFY" textFill="WHITE">
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" radius="9.2225" width="17.89" />
+                     </effect>
+                     <font>
+                        <Font name="Trebuchet MS" size="13.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="24.0" fitWidth="31.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@images/worldwide.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button id="Add_indexButton" fx:id="addIndexButton11" blendMode="DARKEN" mnemonicParsing="false" onAction="#resetCountriesBtnOnAction" prefHeight="34.0" prefWidth="169.0" style="-fx-background-color: #4F4E4E; -fx-border-color: #FEFEFE;" text="Reset Countries" textAlignment="JUSTIFY" textFill="WHITE">
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="19.45" radius="8.835" width="17.89" />
+                     </effect>
+                     <font>
+                        <Font name="Trebuchet MS" size="13.0" />
+                     </font>
+                  </Button>
+               </children>
+            </FlowPane>
+            <FlowPane layoutX="699.0" layoutY="456.0" prefHeight="95.0" prefWidth="169.0" style="-fx-background-color: white;">
+               <children>
+                  <Button id="Add_indexButton" fx:id="addYearBtn" blendMode="DARKEN" mnemonicParsing="false" onAction="#addYearBtnOnAction" prefHeight="60.0" prefWidth="169.0" style="-fx-background-color: #4F4E4E; -fx-border-color: white;" text="Add Year" textAlignment="JUSTIFY" textFill="WHITE">
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="19.45" radius="8.835" width="17.89" />
+                     </effect>
+                     <font>
+                        <Font name="Trebuchet MS" size="13.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="24.0" fitWidth="31.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@images/calendar.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button id="Add_indexButton" fx:id="resetYearsBtn" blendMode="DARKEN" mnemonicParsing="false" onAction="#resetYearsOnAction" prefHeight="34.0" prefWidth="169.0" style="-fx-background-color: #4F4E4E; -fx-border-color: #FEFEFE;" text="Reset Years" textAlignment="JUSTIFY" textFill="WHITE">
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="19.45" radius="8.835" width="17.89" />
+                     </effect>
+                     <font>
+                        <Font name="Trebuchet MS" size="13.0" />
+                     </font>
+                  </Button>
+               </children>
+            </FlowPane>
+            <ImageView fitHeight="53.0" fitWidth="301.0" layoutX="296.0" layoutY="32.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/HealthData.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="46.0" fitWidth="132.0" layoutX="1040.0" layoutY="133.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/chartsImg.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="46.0" fitWidth="364.0" layoutX="610.0" layoutY="32.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/Visualization.png" />
+               </image>
+            </ImageView>
+         </children>
+         <effect>
+            <InnerShadow blurType="ONE_PASS_BOX" />
+         </effect>
+      </Pane>
+   </children>
+</VBox>

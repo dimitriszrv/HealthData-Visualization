@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_h1MhkL53EeuWH6hdtuvFWg">
+  <modelElement href="AdvancedDBs_v01.uml#_hq8ZYL53EeuWH6hdtuvFWg"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_losoYL53EeuWH6hdtuvFWg" source="_losocr53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu5FQb53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_lot2gL53EeuWH6hdtuvFWg" position="70.0,70.0"/>
+    <stereotypes xmi:id="_losoYb53EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu5FQ753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_losoYr53EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_losoY753EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu5FQr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_losoZL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_losoZb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_losoZr53EeuWH6hdtuvFWg" aggregationKind="NONE" name="mainengine" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huVrpL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_losoZ753EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_losoaL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_losocr53EeuWH6hdtuvFWg" name="Main" associationsOut="_losoYL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrvDkL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_losoc753EeuWH6hdtuvFWg" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_losodL53EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_losodb53EeuWH6hdtuvFWg" name="mainengine">
+      <modelElement href="AdvancedDBs_v01.uml#_huVrpL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_losodr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huVrpb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_losod753EeuWH6hdtuvFWg" label="~"/>
+      <cardinality xmi:id="_losoeL53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_losoeb53EeuWH6hdtuvFWg" name="MainEngine">
+        <modelElement href="AdvancedDBs_v01.uml#_hrd90L53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_losof753EeuWH6hdtuvFWg" name="main" staticOperation="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hrvqoL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_losogL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_losogb53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_losogr53EeuWH6hdtuvFWg" name="args">
+        <modelElement href="AdvancedDBs_v01.uml#_hrvqob53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_losog753EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_losohL53EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_losohb53EeuWH6hdtuvFWg" name="start">
+      <modelElement href="AdvancedDBs_v01.uml#_ht604L53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_losohr53EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_ht604r53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_losoh753EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_ht7b8L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_losoiL53EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_losoib53EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_losoir53EeuWH6hdtuvFWg" name="stage">
+        <modelElement href="AdvancedDBs_v01.uml#_ht604b53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_losoi753EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

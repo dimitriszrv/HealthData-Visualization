@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_hzeqUL53EeuWH6hdtuvFWg">
+  <modelElement href="AdvancedDBs_v01.uml#_hf3KwL53EeuWH6hdtuvFWg"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_oF4AAL54EeuWH6hdtuvFWg" sourceAnchor="439.0,0.0" targetAnchor="46.0,62.0" enclosingItem="_h5ytsL53EeuWH6hdtuvFWg" containedItem="_oGE0UL54EeuWH6hdtuvFWg">
+    <bendpoints xmi:id="_BpY2gL55EeuWH6hdtuvFWg" sourceY="-28" targetX="-1024" targetY="28"/>
+    <bendpoints xmi:id="_BpY2gb55EeuWH6hdtuvFWg" sourceX="1024" sourceY="-29" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_oGm_0L54EeuWH6hdtuvFWg" sourceAnchor="101.0,0.0" targetAnchor="46.0,62.0" enclosingItem="_h5ytsL53EeuWH6hdtuvFWg" containedItem="_oGqqML54EeuWH6hdtuvFWg">
+    <bendpoints xmi:id="_BpY2gr55EeuWH6hdtuvFWg" sourceY="-74" targetX="-30" targetY="28"/>
+    <bendpoints xmi:id="_BpZdkL55EeuWH6hdtuvFWg" sourceX="30" sourceY="-75" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_oHJLUL54EeuWH6hdtuvFWg" sourceAnchor="328.0,0.0" targetAnchor="46.0,62.0" enclosingItem="_h5ytsL53EeuWH6hdtuvFWg" containedItem="_oHMOoL54EeuWH6hdtuvFWg">
+    <bendpoints xmi:id="_BpZdkb55EeuWH6hdtuvFWg" sourceY="-268" targetX="132" targetY="28"/>
+    <bendpoints xmi:id="_BpZdkr55EeuWH6hdtuvFWg" sourceX="-132" sourceY="-269" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_oHVYk754EeuWH6hdtuvFWg" sourceAnchor="50.0,0.0" targetAnchor="46.0,62.0" enclosingItem="_h5ytsL53EeuWH6hdtuvFWg" containedItem="_oHWmvb54EeuWH6hdtuvFWg">
+    <bendpoints xmi:id="_BpaEqb55EeuWH6hdtuvFWg" sourceY="-150" targetX="268" targetY="28"/>
+    <bendpoints xmi:id="_BpaEqr55EeuWH6hdtuvFWg" sourceX="-268" sourceY="-151" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_oHYb4b54EeuWH6hdtuvFWg" sourceAnchor="0.0,57.0" targetAnchor="46.0,62.0" enclosingItem="_h5ytsL53EeuWH6hdtuvFWg" containedItem="_oHZC-b54EeuWH6hdtuvFWg">
+    <bendpoints xmi:id="_BpZdk755EeuWH6hdtuvFWg" sourceX="-203" targetX="-391" targetY="588"/>
+    <bendpoints xmi:id="_BpZdlL55EeuWH6hdtuvFWg" sourceX="-204" sourceY="-561" targetX="-392" targetY="27"/>
+    <bendpoints xmi:id="_BpZdlb55EeuWH6hdtuvFWg" sourceX="188" sourceY="-561" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_oHaREL54EeuWH6hdtuvFWg" sourceAnchor="0.0,137.0" targetAnchor="46.0,62.0" enclosingItem="_h5ytsL53EeuWH6hdtuvFWg" containedItem="_oHbfML54EeuWH6hdtuvFWg">
+    <bendpoints xmi:id="_BpaEq755EeuWH6hdtuvFWg" sourceX="-1237" targetX="-297" targetY="472"/>
+    <bendpoints xmi:id="_BpaErL55EeuWH6hdtuvFWg" sourceX="-1238" sourceY="-445" targetX="-298" targetY="27"/>
+    <bendpoints xmi:id="_BpaErb55EeuWH6hdtuvFWg" sourceX="-940" sourceY="-445" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_oHa4Ib54EeuWH6hdtuvFWg" targetItem="_oHbfQb54EeuWH6hdtuvFWg" sourceItem="_oHa4IL54EeuWH6hdtuvFWg"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_xpDmcL54EeuWH6hdtuvFWg" sourceAnchor="306.0,0.0" targetAnchor="0.0,139.0" target="_xpGCwr54EeuWH6hdtuvFWg" source="_xpGCwr54EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu1a4b53EeuWH6hdtuvFWg"/>
+    <bendpoints xmi:id="_BpZdlr55EeuWH6hdtuvFWg" sourceY="-121" targetX="306" targetY="-261"/>
+    <bendpoints xmi:id="_BpZdl755EeuWH6hdtuvFWg" sourceX="-443" sourceY="-121" targetX="-137" targetY="-261"/>
+    <bendpoints xmi:id="_BpZdmL55EeuWH6hdtuvFWg" sourceX="-442" sourceY="140" targetX="-136"/>
+    <stereotypes xmi:id="_xpE0k754EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu1a4753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_xpE0kL54EeuWH6hdtuvFWg" text="">
+      <visualProperties xmi:id="_xyOwkL54EeuWH6hdtuvFWg" position="380.0,-11.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_xpE0kb54EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu1a4r53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_xyOJjL54EeuWH6hdtuvFWg" position="-21.0,-60.0"/>
+      <visibility xmi:id="_xpFbob54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpFboL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_xpE0kr54EeuWH6hdtuvFWg" aggregationKind="NONE" name="mainEngine" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huPlBL53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_xyOwkb54EeuWH6hdtuvFWg" position="-99.0,11.0"/>
+      <visibility xmi:id="_xpFbo754EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_xpFbor54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_xpDmcr54EeuWH6hdtuvFWg" targetItem="_xpGCwr54EeuWH6hdtuvFWg" sourceItem="_xpDmcb54EeuWH6hdtuvFWg"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_xpENgL54EeuWH6hdtuvFWg" sourceAnchor="322.0,0.0" targetAnchor="57.0,61.0" enclosingItem="_h5yGoL53EeuWH6hdtuvFWg" containedItem="_xpGCwr54EeuWH6hdtuvFWg">
+    <bendpoints xmi:id="_BpaEoL55EeuWH6hdtuvFWg" sourceY="-140" targetX="2122" targetY="52"/>
+    <bendpoints xmi:id="_BpaEob55EeuWH6hdtuvFWg" sourceX="-2113" sourceY="-165" targetX="9" targetY="27"/>
+    <bendpoints xmi:id="_BpaEor55EeuWH6hdtuvFWg" sourceX="-2122" sourceY="-164" targetY="28"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_xpENgr54EeuWH6hdtuvFWg" targetItem="_xpGC3754EeuWH6hdtuvFWg" sourceItem="_xpENgb54EeuWH6hdtuvFWg"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_xpENhL54EeuWH6hdtuvFWg" targetItem="_xpGC5L54EeuWH6hdtuvFWg" sourceItem="_xpENg754EeuWH6hdtuvFWg"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_xpFbpb54EeuWH6hdtuvFWg" sourceAnchor="306.0,254.0" targetAnchor="121.0,109.0" target="_BiiAmb55EeuWH6hdtuvFWg" source="_xpGCwr54EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu1a5L53EeuWH6hdtuvFWg"/>
+    <bendpoints xmi:id="_BpZdmb55EeuWH6hdtuvFWg" sourceY="249" targetX="4159" targetY="404"/>
+    <bendpoints xmi:id="_BpZdmr55EeuWH6hdtuvFWg" sourceX="-4159" sourceY="249" targetY="404"/>
+    <stereotypes xmi:id="_xpFbpr54EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu2B8L53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_xpFbp754EeuWH6hdtuvFWg" text="">
+      <visualProperties xmi:id="_BpbSwb55EeuWH6hdtuvFWg" position="2059.254330781457,515.7842416849126"/>
+    </nameVisual>
+    <sourceRole xmi:id="_xpFbqL54EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu1a5b53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_BpbSwL55EeuWH6hdtuvFWg" position="-2.8960833268488386,32.38488986876018"/>
+      <visibility xmi:id="_xpFbqb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpFbqr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_xpFbq754EeuWH6hdtuvFWg" aggregationKind="NONE" name="_queryProcessor" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huPlBr53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_Bpb50L55EeuWH6hdtuvFWg" position="4103.427560583901,1619.8889545242914"/>
+      <visibility xmi:id="_xpFbrL54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_xpFbrb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_xpGCsL54EeuWH6hdtuvFWg" source="_xpGCwr54EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu2B8b53EeuWH6hdtuvFWg"/>
+    <stereotypes xmi:id="_xpGCsb54EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu2B8753EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_xpGCsr54EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_xpGCs754EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu2B8r53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_xpGCtL54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpGCtb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_xpGCtr54EeuWH6hdtuvFWg" aggregationKind="NONE" name="_chartFactory" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huQMEb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_xpGCt754EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_xpGCuL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_xpGCub54EeuWH6hdtuvFWg" source="_xpGCwr54EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu2B9L53EeuWH6hdtuvFWg"/>
+    <stereotypes xmi:id="_xpGCur54EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu2B9r53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_xpGCu754EeuWH6hdtuvFWg" text=""/>
+    <sourceRole xmi:id="_xpGCvL54EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu2B9b53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_xpGCvb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpGCvr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_xpGCv754EeuWH6hdtuvFWg" aggregationKind="NONE" name="_chart" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huQME753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_xpGCwL54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_xpGCwb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_xpJGAL54EeuWH6hdtuvFWg" sourceAnchor="274.0,0.0" targetAnchor="586.0,51.0" dashed="true" superClass="_xpJtEL54EeuWH6hdtuvFWg" subClass="_xpGCwr54EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_htTw4b53EeuWH6hdtuvFWg"/>
+    <bendpoints xmi:id="_BpZdm755EeuWH6hdtuvFWg" sourceX="-5" sourceY="-84" targetX="343"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_xpJGAb54EeuWH6hdtuvFWg" sourceAnchor="290.0,109.0" targetAnchor="57.0,61.0" enclosingItem="_h5yGoL53EeuWH6hdtuvFWg" containedItem="_xpJtEL54EeuWH6hdtuvFWg">
+    <bendpoints xmi:id="_BpaEo755EeuWH6hdtuvFWg" sourceX="4" sourceY="46" targetX="1434" targetY="212"/>
+    <bendpoints xmi:id="_BpaEpL55EeuWH6hdtuvFWg" sourceX="-176" sourceY="50" targetX="1254" targetY="216"/>
+    <bendpoints xmi:id="_BpaEpb55EeuWH6hdtuvFWg" sourceX="-450" sourceY="54" targetX="980" targetY="220"/>
+    <bendpoints xmi:id="_BpaEpr55EeuWH6hdtuvFWg" sourceX="-739" sourceY="44" targetX="691" targetY="210"/>
+    <bendpoints xmi:id="_BpaEp755EeuWH6hdtuvFWg" sourceX="-1084" sourceY="-58" targetX="346" targetY="108"/>
+    <bendpoints xmi:id="_BpaEqL55EeuWH6hdtuvFWg" sourceX="-1424" sourceY="-62" targetX="6" targetY="104"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_BifkUL55EeuWH6hdtuvFWg" sourceAnchor="302.0,55.0" targetAnchor="0.0,178.0" target="_oGE0UL54EeuWH6hdtuvFWg" source="_BiiAmb55EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu4eM753EeuWH6hdtuvFWg"/>
+    <stereotypes xmi:id="_BigLY755EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu4eNb53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_BigLYL55EeuWH6hdtuvFWg" text="">
+      <visualProperties xmi:id="_Bpb50r55EeuWH6hdtuvFWg" position="708.9641747574157,-11.30424229791197"/>
+    </nameVisual>
+    <sourceRole xmi:id="_BigLYb55EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu4eNL53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_Bpb50b55EeuWH6hdtuvFWg" position="51.02022639244569,-33.392051526172565"/>
+      <visibility xmi:id="_BihZgb55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BihZgL55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_BigLYr55EeuWH6hdtuvFWg" aggregationKind="NONE" name="chartData" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huVroL53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_Bpcg4L55EeuWH6hdtuvFWg" position="1358.6817657631957,-33.314861773983125"/>
+      <visibility xmi:id="_BihZg755EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_BihZgr55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_BifkUr55EeuWH6hdtuvFWg" targetItem="_BiiAmb55EeuWH6hdtuvFWg" sourceItem="_BifkUb55EeuWH6hdtuvFWg"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_BigLZL55EeuWH6hdtuvFWg" sourceAnchor="151.0,0.0" targetAnchor="71.0,63.0" enclosingItem="_h5z70L53EeuWH6hdtuvFWg" containedItem="_BiiAmb55EeuWH6hdtuvFWg">
+    <bendpoints xmi:id="_Bparsr55EeuWH6hdtuvFWg" sourceY="-290" targetX="-2194" targetY="-112"/>
+    <bendpoints xmi:id="_Bpars755EeuWH6hdtuvFWg" sourceX="2281" sourceY="-290" targetX="87" targetY="-112"/>
+    <bendpoints xmi:id="_BpartL55EeuWH6hdtuvFWg" sourceX="2281" sourceY="-99" targetX="87" targetY="79"/>
+    <bendpoints xmi:id="_Bpartb55EeuWH6hdtuvFWg" sourceX="2194" sourceY="-99" targetY="79"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Bigycb55EeuWH6hdtuvFWg" targetItem="_BiiApr55EeuWH6hdtuvFWg" sourceItem="_BigycL55EeuWH6hdtuvFWg"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Bigyc755EeuWH6hdtuvFWg" targetItem="_BiiAsb55EeuWH6hdtuvFWg" sourceItem="_Bigycr55EeuWH6hdtuvFWg"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_BiiAkL55EeuWH6hdtuvFWg" sourceAnchor="121.0,0.0" targetAnchor="284.0,0.0" target="_Bilq8755EeuWH6hdtuvFWg" source="_BiiAmb55EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu4eNr53EeuWH6hdtuvFWg"/>
+    <bendpoints xmi:id="_BparsL55EeuWH6hdtuvFWg" sourceY="-320" targetX="-4834" targetY="-251"/>
+    <bendpoints xmi:id="_Bparsb55EeuWH6hdtuvFWg" sourceX="4834" sourceY="-320" targetY="-251"/>
+    <stereotypes xmi:id="_BiiAkb55EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu5FQL53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_BiiAkr55EeuWH6hdtuvFWg" text="">
+      <visualProperties xmi:id="_Bpcg4r55EeuWH6hdtuvFWg" position="-2431.0310428626935,304.0637997812092"/>
+    </nameVisual>
+    <sourceRole xmi:id="_BiiAk755EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu4eN753EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_Bpcg4b55EeuWH6hdtuvFWg" position="2.6685690636031723,-73.72619004282092"/>
+      <visibility xmi:id="_BiiAlL55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BiiAlb55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_BiiAlr55EeuWH6hdtuvFWg" aggregationKind="NONE" name="database" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huVror53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_Bpcg4755EeuWH6hdtuvFWg" position="-4861.831430936397,69.26874221608449"/>
+      <visibility xmi:id="_BiiAl755EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_BiiAmL55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Bij1wL55EeuWH6hdtuvFWg" sourceAnchor="224.0,0.0" targetAnchor="0.0,139.0" target="_Bilq8755EeuWH6hdtuvFWg" source="_Bilq8755EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hu4eML53EeuWH6hdtuvFWg"/>
+    <bendpoints xmi:id="_Bpartr55EeuWH6hdtuvFWg" sourceY="-121" targetX="224" targetY="-260"/>
+    <bendpoints xmi:id="_Bpart755EeuWH6hdtuvFWg" sourceX="-338" sourceY="-121" targetX="-114" targetY="-260"/>
+    <bendpoints xmi:id="_BparuL55EeuWH6hdtuvFWg" sourceX="-338" sourceY="139" targetX="-114"/>
+    <stereotypes xmi:id="_BilD4755EeuWH6hdtuvFWg" name="Reference">
+      <modelElement href="AdvancedDBs_v01.uml#_hu4eMr53EeuWH6hdtuvFWg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_BilD4L55EeuWH6hdtuvFWg" text="">
+      <visualProperties xmi:id="_BpdH8b55EeuWH6hdtuvFWg" position="276.91666666666697,-10.75"/>
+    </nameVisual>
+    <sourceRole xmi:id="_BilD4b55EeuWH6hdtuvFWg" aggregationKind="NONE" name="">
+      <modelElement href="AdvancedDBs_v01.uml#_hu4eMb53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_BpdH8L55EeuWH6hdtuvFWg" position="-20.08333333333303,-59.25"/>
+      <visibility xmi:id="_BilD5b55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BilD5L55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_BilD4r55EeuWH6hdtuvFWg" aggregationKind="NONE" name="database" navigable="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huUdhL53EeuWH6hdtuvFWg"/>
+      <visualProperties xmi:id="_BpdH8r55EeuWH6hdtuvFWg" position="-81.08333333333303,11.749999999999886"/>
+      <visibility xmi:id="_Bilq8b55EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_Bilq8L55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_Bikc0L55EeuWH6hdtuvFWg" sourceAnchor="254.0,0.0" targetAnchor="71.0,63.0" enclosingItem="_h5z70L53EeuWH6hdtuvFWg" containedItem="_Bilq8755EeuWH6hdtuvFWg">
+    <bendpoints xmi:id="_Bparub55EeuWH6hdtuvFWg" sourceY="-191" targetX="2580" targetY="-82"/>
+    <bendpoints xmi:id="_Bparur55EeuWH6hdtuvFWg" sourceX="-2001" sourceY="-191" targetX="579" targetY="-82"/>
+    <bendpoints xmi:id="_Bparu755EeuWH6hdtuvFWg" sourceX="-2001" sourceY="-30" targetX="579" targetY="79"/>
+    <bendpoints xmi:id="_BparvL55EeuWH6hdtuvFWg" sourceX="-2580" sourceY="-30" targetY="79"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Bikc0r55EeuWH6hdtuvFWg" targetItem="_BilrHr55EeuWH6hdtuvFWg" sourceItem="_Bikc0b55EeuWH6hdtuvFWg"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_h5ytsL53EeuWH6hdtuvFWg" containments="_oF4AAL54EeuWH6hdtuvFWg _oGm_0L54EeuWH6hdtuvFWg _oHJLUL54EeuWH6hdtuvFWg _oHVYk754EeuWH6hdtuvFWg _oHYb4b54EeuWH6hdtuvFWg _oHaREL54EeuWH6hdtuvFWg" classes="_oGE0UL54EeuWH6hdtuvFWg _oGqqML54EeuWH6hdtuvFWg _oHMOoL54EeuWH6hdtuvFWg _oHWmvb54EeuWH6hdtuvFWg _oHZC-b54EeuWH6hdtuvFWg _oHbfML54EeuWH6hdtuvFWg" name="model">
+    <modelElement href="AdvancedDBs_v01.uml#_hqqFgb53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_h5ytsb53EeuWH6hdtuvFWg" position="-280.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_h5zUwL53EeuWH6hdtuvFWg" name="output">
+    <modelElement href="AdvancedDBs_v01.uml#_hquW8L53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_h5zUwb53EeuWH6hdtuvFWg" position="-445.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_oHa4IL54EeuWH6hdtuvFWg" sourceConnectionVisual="_oHa4Ib54EeuWH6hdtuvFWg" text="Must return an object that follows this format&#xD;&#xA;&#x9; * final NumberAxis xAxis = new NumberAxis(0, 10, 1);&#xD;&#xA;&#x9; * Where : &#xD;&#xA;&#x9; * 0 : x Axis starting point&#xD;&#xA;&#x9; * 10: x Axis ending point&#xD;&#xA;&#x9; * 1 : x Axis step size" item="_oHbfQb54EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_husQ8b53EeuWH6hdtuvFWg"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_oGE0UL54EeuWH6hdtuvFWg" containment="_oF4AAL54EeuWH6hdtuvFWg" name="ChartData" package="_h5ytsL53EeuWH6hdtuvFWg" associationsIn="_BifkUL55EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrwRsL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_oGE0Ub54EeuWH6hdtuvFWg" position="-1697.0,168.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_oGE0Ur54EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_oGE0U754EeuWH6hdtuvFWg" name="yearAggregationType">
+      <modelElement href="AdvancedDBs_v01.uml#_huWSsr53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0VL54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huWSs753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0Vb54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_oGE0Vr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_oGE0V754EeuWH6hdtuvFWg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_oGE0WL54EeuWH6hdtuvFWg" name="indexes">
+      <modelElement href="AdvancedDBs_v01.uml#_huWStL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0Wb54EeuWH6hdtuvFWg" name="Array">
+        <modelElement href="AdvancedDBs_v01.uml#_huWStr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_oGE0Wr54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huW5wL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0W754EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_oGE0XL54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_oGE0Xb54EeuWH6hdtuvFWg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_oGE0Xr54EeuWH6hdtuvFWg" name="countries">
+      <modelElement href="AdvancedDBs_v01.uml#_huW5wb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0X754EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huW5wr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_oGE0YL54EeuWH6hdtuvFWg" name="Array">
+        <modelElement href="AdvancedDBs_v01.uml#_huW5xL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0Yb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0Yr54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_oGE0Y754EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_oGE0ZL54EeuWH6hdtuvFWg" name="minYear">
+      <modelElement href="AdvancedDBs_v01.uml#_huXg0b53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0Zb54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huXg0r53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0Zr54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_oGE0Z754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_oGE0aL54EeuWH6hdtuvFWg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_oGE0ab54EeuWH6hdtuvFWg" name="maxYear">
+      <modelElement href="AdvancedDBs_v01.uml#_huXg0753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0ar54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huXg1L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0a754EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_oGE0bL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_oGE0bb54EeuWH6hdtuvFWg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_oGE0br54EeuWH6hdtuvFWg" defaultValue="new HashMap &lt;String,HashMap&lt;Integer,HashMap&lt;Integer,Double>>>()" name="data">
+      <modelElement href="AdvancedDBs_v01.uml#_huXg1b53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0b754EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_huYH4L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_oGE0cL54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huYH4r53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0cb54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_oGE0cr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </attributes>
+    <operations xmi:id="_oGE0dL54EeuWH6hdtuvFWg" name="ChartData">
+      <modelElement href="AdvancedDBs_v01.uml#_hrw4wL53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_oGE0db54EeuWH6hdtuvFWg" keyword="create"/>
+      <stereotypes xmi:id="_oGE0dr54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hrxf0L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0d754EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0eL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oGE0eb54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrxf0b53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oGE0er54EeuWH6hdtuvFWg" name="ChartData">
+          <modelElement href="AdvancedDBs_v01.uml#_hrwRsL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oGE0e754EeuWH6hdtuvFWg" name="calculateYear_X_axisScale">
+      <modelElement href="AdvancedDBs_v01.uml#_hrxf0r53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0fL54EeuWH6hdtuvFWg" name="Array">
+        <modelElement href="AdvancedDBs_v01.uml#_hryG4L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0fb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0fr54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_oGE0f754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrxf0753EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oGE0gL54EeuWH6hdtuvFWg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oGE0gb54EeuWH6hdtuvFWg" name="calculateYaxisScaleDemo">
+      <modelElement href="AdvancedDBs_v01.uml#_hryG4b53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0gr54EeuWH6hdtuvFWg" name="Array">
+        <modelElement href="AdvancedDBs_v01.uml#_hryG5L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0g754EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0hL54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_oGE0hb54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hryG4r53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oGE0hr54EeuWH6hdtuvFWg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oGE0h754EeuWH6hdtuvFWg" name="calculateYaxisScale">
+      <modelElement href="AdvancedDBs_v01.uml#_hryG5b53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0iL54EeuWH6hdtuvFWg" name="Array">
+        <modelElement href="AdvancedDBs_v01.uml#_hryt8L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0ib54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0ir54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_oGE0i754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hryG5r53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oGE0jL54EeuWH6hdtuvFWg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oGE0jb54EeuWH6hdtuvFWg" name="GetData">
+      <modelElement href="AdvancedDBs_v01.uml#_hryt8b53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0jr54EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_hryt8r53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0j754EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0kL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oGE0kb54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht9RKb53EeuWH6hdtuvFWg"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oGE0k754EeuWH6hdtuvFWg" name="getIndexies">
+      <modelElement href="AdvancedDBs_v01.uml#_hryt8753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0lL54EeuWH6hdtuvFWg" name="Array">
+        <modelElement href="AdvancedDBs_v01.uml#_hrzVAb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0lb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0lr54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_oGE0l754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hryt9L53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oGE0mL54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oGE0mb54EeuWH6hdtuvFWg" name="setIndexes">
+      <modelElement href="AdvancedDBs_v01.uml#_hrzVAr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oGE0mr54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0m754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_oGE0nL54EeuWH6hdtuvFWg" name="_indexes">
+        <modelElement href="AdvancedDBs_v01.uml#_hrzVA753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE0nb54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_oGE0nr54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_oGE0n754EeuWH6hdtuvFWg" name="GetYearsAggregated">
+      <modelElement href="AdvancedDBs_v01.uml#_hrzVBb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0oL54EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_hrz8EL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0ob54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0or54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oGE0o754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht-fQr53EeuWH6hdtuvFWg"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oGE0pb54EeuWH6hdtuvFWg" name="GetIndexValue">
+      <modelElement href="AdvancedDBs_v01.uml#_hrz8Eb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oGE0pr54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0p754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oGE0qL54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht_GUb53EeuWH6hdtuvFWg"/>
+      </outParameters>
+      <parameters xmi:id="_oGE0qr54EeuWH6hdtuvFWg" name="country">
+        <modelElement href="AdvancedDBs_v01.uml#_hrz8Er53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE0q754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oGE0rL54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_oGE0rb54EeuWH6hdtuvFWg" name="year">
+        <modelElement href="AdvancedDBs_v01.uml#_hrz8E753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE0rr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oGE0r754EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_oGE0sL54EeuWH6hdtuvFWg" name="index">
+        <modelElement href="AdvancedDBs_v01.uml#_hrz8FL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE0sb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oGE0sr54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_oGE0s754EeuWH6hdtuvFWg" name="GetScatterAxisNumber">
+      <modelElement href="AdvancedDBs_v01.uml#_hr0jIL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE0tL54EeuWH6hdtuvFWg" name="Array">
+        <modelElement href="AdvancedDBs_v01.uml#_hr0jJL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE0tb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0tr54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_oGE0t754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hr0jIr53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oGE0uL54EeuWH6hdtuvFWg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_oGE0ub54EeuWH6hdtuvFWg" name="index">
+        <modelElement href="AdvancedDBs_v01.uml#_hr0jIb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE0ur54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oGE0u754EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_oGE0vL54EeuWH6hdtuvFWg" name="ChartData">
+      <modelElement href="AdvancedDBs_v01.uml#_ht7b8753EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_oGE0vb54EeuWH6hdtuvFWg" keyword="create"/>
+      <visibility xmi:id="_oGE0vr54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE0v754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oGE0wL54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht8DBb53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oGE0wb54EeuWH6hdtuvFWg" name="ChartData">
+          <modelElement href="AdvancedDBs_v01.uml#_hrwRsL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_oGE0wr54EeuWH6hdtuvFWg" name="data">
+        <modelElement href="AdvancedDBs_v01.uml#_ht7b9L53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE0w754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_oGE0xb54EeuWH6hdtuvFWg" name="countries">
+        <modelElement href="AdvancedDBs_v01.uml#_ht7b9b53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE0xr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_oGE0yL54EeuWH6hdtuvFWg" name="years">
+        <modelElement href="AdvancedDBs_v01.uml#_ht8DAL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE0yb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_oGE0y754EeuWH6hdtuvFWg" name="indexes">
+        <modelElement href="AdvancedDBs_v01.uml#_ht8DAb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE0zL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_oGE0zr54EeuWH6hdtuvFWg" name="yearAggregationType">
+        <modelElement href="AdvancedDBs_v01.uml#_ht8DAr53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE0z754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oGE00L54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_oGE00b54EeuWH6hdtuvFWg" name="ChartData">
+      <modelElement href="AdvancedDBs_v01.uml#_ht8qEr53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_oGE00r54EeuWH6hdtuvFWg" keyword="create"/>
+      <visibility xmi:id="_oGE00754EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE01L54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oGE01b54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht9RJb53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oGE01r54EeuWH6hdtuvFWg" name="ChartData">
+          <modelElement href="AdvancedDBs_v01.uml#_hrwRsL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_oGE01754EeuWH6hdtuvFWg" name="data">
+        <modelElement href="AdvancedDBs_v01.uml#_ht8qE753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE02L54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_oGE02r54EeuWH6hdtuvFWg" name="countries">
+        <modelElement href="AdvancedDBs_v01.uml#_ht8qFL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE02754EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_oGE03L54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_oGE03b54EeuWH6hdtuvFWg" name="indexes">
+        <modelElement href="AdvancedDBs_v01.uml#_ht8qFb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE03r54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_oGE03754EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_oGE04L54EeuWH6hdtuvFWg" name="minYear">
+        <modelElement href="AdvancedDBs_v01.uml#_ht9RIL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE04b54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oGE04r54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_oGE04754EeuWH6hdtuvFWg" name="maxYear">
+        <modelElement href="AdvancedDBs_v01.uml#_ht9RIb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE05L54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oGE05b54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_oGE05r54EeuWH6hdtuvFWg" name="yearAggregationType">
+        <modelElement href="AdvancedDBs_v01.uml#_ht9RIr53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE05754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oGE06L54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_oGE06b54EeuWH6hdtuvFWg" name="setData">
+      <modelElement href="AdvancedDBs_v01.uml#_ht94ML53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oGE06r54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGE06754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_oGE07L54EeuWH6hdtuvFWg" name="data">
+        <modelElement href="AdvancedDBs_v01.uml#_ht94Mb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE07b54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+    </operations>
+    <operations xmi:id="_oGE07754EeuWH6hdtuvFWg" name="ArraylListMinMax">
+      <modelElement href="AdvancedDBs_v01.uml#_ht94M753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGE08L54EeuWH6hdtuvFWg" name="Array">
+        <modelElement href="AdvancedDBs_v01.uml#_ht-fQL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGE08b54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_oGE08r54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_oGE08754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht94Nb53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oGE09L54EeuWH6hdtuvFWg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_oGE09b54EeuWH6hdtuvFWg" name="arr">
+        <modelElement href="AdvancedDBs_v01.uml#_ht94NL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGE09r54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_oGqqML54EeuWH6hdtuvFWg" containment="_oGm_0L54EeuWH6hdtuvFWg" name="Year" package="_h5ytsL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrnHwL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_oGqqMb54EeuWH6hdtuvFWg" position="-365.0,214.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_oGqqMr54EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_oGqqM754EeuWH6hdtuvFWg" name="year">
+      <modelElement href="AdvancedDBs_v01.uml#_huT2cr53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oGqqNL54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huT2c753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oGqqNb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGqqNr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </attributes>
+    <operations xmi:id="_oGqqOL54EeuWH6hdtuvFWg" name="yearProperty">
+      <modelElement href="AdvancedDBs_v01.uml#_hrnu0L53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oGqqOb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGqqOr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oGqqO754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht5mwL53EeuWH6hdtuvFWg"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oGqqPb54EeuWH6hdtuvFWg" name="Year">
+      <modelElement href="AdvancedDBs_v01.uml#_hrnu0b53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_oGqqPr54EeuWH6hdtuvFWg" keyword="create"/>
+      <visibility xmi:id="_oGqqP754EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oGqqQL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oGqqQb54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hroV4r53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oGqqQr54EeuWH6hdtuvFWg" name="Year">
+          <modelElement href="AdvancedDBs_v01.uml#_hrnHwL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_oGqqQ754EeuWH6hdtuvFWg" name="year">
+        <modelElement href="AdvancedDBs_v01.uml#_hrnu0r53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oGqqRL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oGqqRb54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_oHMOoL54EeuWH6hdtuvFWg" containment="_oHJLUL54EeuWH6hdtuvFWg" name="Index" package="_h5ytsL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrkrgL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_oHMOob54EeuWH6hdtuvFWg" position="-430.0,408.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_oHMOor54EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_oHMOo754EeuWH6hdtuvFWg" name="indexName">
+      <modelElement href="AdvancedDBs_v01.uml#_huSBQb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oHMOpL54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huSBQr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oHMOpb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHMOpr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </attributes>
+    <attributes xmi:id="_oHMOqL54EeuWH6hdtuvFWg" name="indexID">
+      <modelElement href="AdvancedDBs_v01.uml#_huSoUL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oHMOqb54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huSoUb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oHMOqr54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHMOq754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </attributes>
+    <operations xmi:id="_oHMOrb54EeuWH6hdtuvFWg" name="indexNameProperty">
+      <modelElement href="AdvancedDBs_v01.uml#_hrlSkL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oHMOrr54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHMOr754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oHMOsL54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht3xkL53EeuWH6hdtuvFWg"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oHMOsr54EeuWH6hdtuvFWg" name="indexIDProperty">
+      <modelElement href="AdvancedDBs_v01.uml#_hrlSkb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oHMOs754EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHMOtL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oHMOtb54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht3xkb53EeuWH6hdtuvFWg"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oHMOt754EeuWH6hdtuvFWg" name="Index">
+      <modelElement href="AdvancedDBs_v01.uml#_hrlSkr53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_oHMOuL54EeuWH6hdtuvFWg" keyword="create"/>
+      <visibility xmi:id="_oHMOub54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHMOur54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oHMOu754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrlSl753EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oHMOvL54EeuWH6hdtuvFWg" name="Index">
+          <modelElement href="AdvancedDBs_v01.uml#_hrkrgL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_oHMOvb54EeuWH6hdtuvFWg" name="indexName">
+        <modelElement href="AdvancedDBs_v01.uml#_hrlSk753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oHMOvr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oHMOv754EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_oHMOwL54EeuWH6hdtuvFWg" name="indexID">
+        <modelElement href="AdvancedDBs_v01.uml#_hrlSlL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oHMOwb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oHMOwr54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_oHZC-b54EeuWH6hdtuvFWg" containment="_oHYb4b54EeuWH6hdtuvFWg" name="Country" package="_h5ytsL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrjdYL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_oHZC-r54EeuWH6hdtuvFWg" position="-422.0,643.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_oHZC-754EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_oHZC_L54EeuWH6hdtuvFWg" name="countryName">
+      <modelElement href="AdvancedDBs_v01.uml#_huRaMb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oHZC_b54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huRaMr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oHZC_r54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHZC_754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </attributes>
+    <operations xmi:id="_oHZDAb54EeuWH6hdtuvFWg" name="countryNameProperty">
+      <modelElement href="AdvancedDBs_v01.uml#_hrjdYb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oHZDAr54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHZDA754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oHZDBL54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht3Kgr53EeuWH6hdtuvFWg"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oHZDBr54EeuWH6hdtuvFWg" name="Country">
+      <modelElement href="AdvancedDBs_v01.uml#_hrkEcL53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_oHZDB754EeuWH6hdtuvFWg" keyword="create"/>
+      <visibility xmi:id="_oHZDCL54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHZDCb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oHZDCr54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrkEdL53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oHZDC754EeuWH6hdtuvFWg" name="Country">
+          <modelElement href="AdvancedDBs_v01.uml#_hrjdYL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_oHZDDL54EeuWH6hdtuvFWg" name="countryName">
+        <modelElement href="AdvancedDBs_v01.uml#_hrkEcb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oHZDDb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oHZDDr54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_h5w4gr53EeuWH6hdtuvFWg" name="controllers">
+    <modelElement href="AdvancedDBs_v01.uml#_hqoQUL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_h5w4g753EeuWH6hdtuvFWg" position="-117.0,46.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_h5yGoL53EeuWH6hdtuvFWg" containments="_xpENgL54EeuWH6hdtuvFWg _xpJGAb54EeuWH6hdtuvFWg" classes="_xpGCwr54EeuWH6hdtuvFWg _xpJtEL54EeuWH6hdtuvFWg" name="mainengine">
+    <modelElement href="AdvancedDBs_v01.uml#_hqqFgL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_h5yGob53EeuWH6hdtuvFWg" position="49.0,47.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_h5z70L53EeuWH6hdtuvFWg" containments="_BigLZL55EeuWH6hdtuvFWg _Bikc0L55EeuWH6hdtuvFWg" classes="_BiiAmb55EeuWH6hdtuvFWg _Bilq8755EeuWH6hdtuvFWg" name="queryprocessor">
+    <modelElement href="AdvancedDBs_v01.uml#_hquW8b53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_h5z70b53EeuWH6hdtuvFWg" position="206.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_xpDmcb54EeuWH6hdtuvFWg" sourceConnectionVisual="_xpDmcr54EeuWH6hdtuvFWg" text="MainEngine instance that connects every package with gui" item="_xpGCwr54EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hurp4L53EeuWH6hdtuvFWg"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_xpENgb54EeuWH6hdtuvFWg" sourceConnectionVisual="_xpENgr54EeuWH6hdtuvFWg" text="Singleton Pattern.&#xA;&#x9; * &#x9;Public static method for getting the MainEngine instance." item="_xpGC3754EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hurp4b53EeuWH6hdtuvFWg"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_xpENg754EeuWH6hdtuvFWg" sourceConnectionVisual="_xpENhL54EeuWH6hdtuvFWg" text="@param username MySQL's username&#xA;&#x9; * @param password MySQL's password&#xA;&#x9; * @return an int for flag use&#xA;&#x9; * @throws Exception" item="_xpGC5L54EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_husQ8L53EeuWH6hdtuvFWg"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_xpGCwr54EeuWH6hdtuvFWg" comments="_xpDmcb54EeuWH6hdtuvFWg" targetConnectionVisual="_xpDmcr54EeuWH6hdtuvFWg" containment="_xpENgL54EeuWH6hdtuvFWg" name="MainEngine" package="_h5yGoL53EeuWH6hdtuvFWg" associationsIn="_xpDmcL54EeuWH6hdtuvFWg" associationsOut="_xpDmcL54EeuWH6hdtuvFWg _xpFbpb54EeuWH6hdtuvFWg _xpGCsL54EeuWH6hdtuvFWg _xpGCub54EeuWH6hdtuvFWg" generalizations="_xpJGAL54EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrd90L53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_xpGCw754EeuWH6hdtuvFWg" position="1906.0,301.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_xpGCxL54EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_xpGCxb54EeuWH6hdtuvFWg" name="mainEngine" staticAttribute="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huPlBL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_xpGCxr54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huPlBb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_xpGCx754EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_xpGCyL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_xpGCyb54EeuWH6hdtuvFWg" name="MainEngine">
+        <modelElement href="AdvancedDBs_v01.uml#_hrd90L53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_xpGCyr54EeuWH6hdtuvFWg" name="_queryProcessor">
+      <modelElement href="AdvancedDBs_v01.uml#_huPlBr53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_xpGCy754EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huQMEL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_xpGCzL54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_xpGCzb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_xpGCzr54EeuWH6hdtuvFWg" name="QueryProcessor">
+        <modelElement href="AdvancedDBs_v01.uml#_hrt1cL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_xpGCz754EeuWH6hdtuvFWg" name="_chartFactory">
+      <modelElement href="AdvancedDBs_v01.uml#_huQMEb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_xpGC0L54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huQMEr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_xpGC0b54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_xpGC0r54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_xpGC0754EeuWH6hdtuvFWg" name="ChartFactory">
+        <modelElement href="AdvancedDBs_v01.uml#_hroV4753EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_xpGC1L54EeuWH6hdtuvFWg" name="_chart">
+      <modelElement href="AdvancedDBs_v01.uml#_huQME753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_xpGC1b54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huQMFL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_xpGC1r54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_xpGC1754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_xpGC2L54EeuWH6hdtuvFWg" name="SystemChart">
+        <modelElement href="AdvancedDBs_v01.uml#_hrqLEL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_xpGC2b54EeuWH6hdtuvFWg" name="MainEngine">
+      <modelElement href="AdvancedDBs_v01.uml#_hrek4L53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_xpGC2r54EeuWH6hdtuvFWg" keyword="create"/>
+      <visibility xmi:id="_xpGC2754EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpGC3L54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_xpGC3b54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrek4753EeuWH6hdtuvFWg"/>
+        <type xmi:id="_xpGC3r54EeuWH6hdtuvFWg" name="MainEngine">
+          <modelElement href="AdvancedDBs_v01.uml#_hrd90L53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_xpGC3754EeuWH6hdtuvFWg" comments="_xpENgb54EeuWH6hdtuvFWg" targetConnectionVisual="_xpENgr54EeuWH6hdtuvFWg" name="getMainEngineInstance" staticOperation="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hrek5L53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_xpGC4L54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpGC4b54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_xpGC4r54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_htUX8L53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_xpGC4754EeuWH6hdtuvFWg" name="MainEngine">
+          <modelElement href="AdvancedDBs_v01.uml#_hrd90L53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_xpGC5L54EeuWH6hdtuvFWg" comments="_xpENg754EeuWH6hdtuvFWg" targetConnectionVisual="_xpENhL54EeuWH6hdtuvFWg" name="configureDB">
+      <modelElement href="AdvancedDBs_v01.uml#_hrfL8L53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_xpGC5b54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpGC5r54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_xpGC5754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrfL8753EeuWH6hdtuvFWg"/>
+        <type xmi:id="_xpGC6L54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_xpGC6b54EeuWH6hdtuvFWg" name="username">
+        <modelElement href="AdvancedDBs_v01.uml#_hrfL8b53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpGC6r54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_xpGC6754EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_xpGC7L54EeuWH6hdtuvFWg" name="password">
+        <modelElement href="AdvancedDBs_v01.uml#_hrfL8r53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpGC7b54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_xpGC7r54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_xpGC7754EeuWH6hdtuvFWg" name="getDBcountries">
+      <modelElement href="AdvancedDBs_v01.uml#_hrfL9L53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_xpGC8L54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpGC8b54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_xpGC8r54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrfL9b53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_xpGC8754EeuWH6hdtuvFWg" name="Country">
+          <modelElement href="AdvancedDBs_v01.uml#_hrjdYL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_xpGC9L54EeuWH6hdtuvFWg" name="getDByears">
+      <modelElement href="AdvancedDBs_v01.uml#_hrfzAL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_xpGC9b54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpGC9r54EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_xpGC9754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrfzAb53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_xpGC-L54EeuWH6hdtuvFWg" name="Year">
+          <modelElement href="AdvancedDBs_v01.uml#_hrnHwL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_xpGC-b54EeuWH6hdtuvFWg" name="generateChart">
+      <modelElement href="AdvancedDBs_v01.uml#_htUX8b53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_xpGC-r54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_htUX9L53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_xpGC-754EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_htU_AL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_xpGC_L54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpGC_b54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_xpGC_r54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht2jc753EeuWH6hdtuvFWg"/>
+      </outParameters>
+      <parameters xmi:id="_xpGC_754EeuWH6hdtuvFWg" name="chartType">
+        <modelElement href="AdvancedDBs_v01.uml#_htUX8r53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpGDAL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_xpGDAb54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_xpGDAr54EeuWH6hdtuvFWg" name="chartData">
+        <modelElement href="AdvancedDBs_v01.uml#_htUX8753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpGDA754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_xpGDBL54EeuWH6hdtuvFWg" name="ChartData">
+          <modelElement href="AdvancedDBs_v01.uml#_hrwRsL53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_xpGDBb54EeuWH6hdtuvFWg" name="queryProcess">
+      <modelElement href="AdvancedDBs_v01.uml#_ht1VUb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_xpGDBr54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_ht1VV753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_xpGDB754EeuWH6hdtuvFWg" name="Annotations">
+        <modelElement href="AdvancedDBs_v01.uml#_ht2jcb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_xpGDCL54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpGDCb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_xpGDCr54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht1VVr53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_xpGDC754EeuWH6hdtuvFWg" name="ChartData">
+          <modelElement href="AdvancedDBs_v01.uml#_hrwRsL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_xpGDDL54EeuWH6hdtuvFWg" name="countries">
+        <modelElement href="AdvancedDBs_v01.uml#_ht1VUr53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpGDDb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_xpGDDr54EeuWH6hdtuvFWg" name="indexes">
+        <modelElement href="AdvancedDBs_v01.uml#_ht1VU753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpGDD754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_xpGDEL54EeuWH6hdtuvFWg" name="years">
+        <modelElement href="AdvancedDBs_v01.uml#_ht1VVL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpGDEb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_xpGDEr54EeuWH6hdtuvFWg" name="yearAggregationType">
+        <modelElement href="AdvancedDBs_v01.uml#_ht1VVb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpGDE754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_xpGDFL54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_xpJtEL54EeuWH6hdtuvFWg" containment="_xpJGAb54EeuWH6hdtuvFWg" name="IMainEngine" package="_h5yGoL53EeuWH6hdtuvFWg" subclassedBy="_xpJGAL54EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrdWwL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_xpJtEb54EeuWH6hdtuvFWg" position="1246.0,165.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_xpJtEr54EeuWH6hdtuvFWg" label="+"/>
+    <operations xmi:id="_xpJtE754EeuWH6hdtuvFWg" name="generateChart">
+      <modelElement href="AdvancedDBs_v01.uml#_htTJ0L53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_xpJtFL54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpJtFb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_xpJtFr54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht1VUL53EeuWH6hdtuvFWg"/>
+      </outParameters>
+      <parameters xmi:id="_xpJtF754EeuWH6hdtuvFWg" name="chartType">
+        <modelElement href="AdvancedDBs_v01.uml#_htTJ0b53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpJtGL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_xpJtGb54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_xpJtGr54EeuWH6hdtuvFWg" name="chartData">
+        <modelElement href="AdvancedDBs_v01.uml#_htTJ0r53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpJtG754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_xpJtHL54EeuWH6hdtuvFWg" name="ChartData">
+          <modelElement href="AdvancedDBs_v01.uml#_hrwRsL53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_xpJtHb54EeuWH6hdtuvFWg" name="queryProcess">
+      <modelElement href="AdvancedDBs_v01.uml#_ht0HMr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_xpJtHr54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_xpJtH754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_xpJtIL54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht0HN753EeuWH6hdtuvFWg"/>
+        <type xmi:id="_xpJtIb54EeuWH6hdtuvFWg" name="ChartData">
+          <modelElement href="AdvancedDBs_v01.uml#_hrwRsL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_xpJtIr54EeuWH6hdtuvFWg" name="countries">
+        <modelElement href="AdvancedDBs_v01.uml#_ht0HM753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpJtI754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_xpJtJL54EeuWH6hdtuvFWg" name="indexes">
+        <modelElement href="AdvancedDBs_v01.uml#_ht0HNL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpJtJb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_xpJtJr54EeuWH6hdtuvFWg" name="years">
+        <modelElement href="AdvancedDBs_v01.uml#_ht0HNb53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpJtJ754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_xpJtKL54EeuWH6hdtuvFWg" name="yearAggregationType">
+        <modelElement href="AdvancedDBs_v01.uml#_ht0HNr53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_xpJtKb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_xpJtKr54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_oHWmvb54EeuWH6hdtuvFWg" containment="_oHVYk754EeuWH6hdtuvFWg" name="Query" package="_h5ytsL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrmgsL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_oHWmvr54EeuWH6hdtuvFWg" position="-16.0,290.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_oHWmv754EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_oHWmwL54EeuWH6hdtuvFWg" name="countries">
+      <modelElement href="AdvancedDBs_v01.uml#_huTPYL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oHWmwb54EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_huTPYb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oHWmwr54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHWmw754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </attributes>
+    <attributes xmi:id="_oHWmxb54EeuWH6hdtuvFWg" name="indexes">
+      <modelElement href="AdvancedDBs_v01.uml#_huTPYr53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oHWmxr54EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_huTPY753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oHWmx754EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHWmyL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </attributes>
+    <attributes xmi:id="_oHWmyr54EeuWH6hdtuvFWg" name="years">
+      <modelElement href="AdvancedDBs_v01.uml#_huTPZL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oHWmy754EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_huT2cL53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oHWmzL54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHWmzb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </attributes>
+    <attributes xmi:id="_oHWmz754EeuWH6hdtuvFWg" name="yearAggregationType">
+      <modelElement href="AdvancedDBs_v01.uml#_huT2cb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oHWm0L54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHWm0b54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_oHWm0r54EeuWH6hdtuvFWg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_oHWm0754EeuWH6hdtuvFWg" name="Query">
+      <modelElement href="AdvancedDBs_v01.uml#_ht4YoL53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_oHWm1L54EeuWH6hdtuvFWg" keyword="create"/>
+      <visibility xmi:id="_oHWm1b54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHWm1r54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oHWm1754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht4Yp753EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oHWm2L54EeuWH6hdtuvFWg" name="Query">
+          <modelElement href="AdvancedDBs_v01.uml#_hrmgsL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_oHWm2b54EeuWH6hdtuvFWg" name="countries">
+        <modelElement href="AdvancedDBs_v01.uml#_ht4Yob53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oHWm2r54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_oHWm3L54EeuWH6hdtuvFWg" name="indexes">
+        <modelElement href="AdvancedDBs_v01.uml#_ht4Yor53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oHWm3b54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_oHWm3754EeuWH6hdtuvFWg" name="years">
+        <modelElement href="AdvancedDBs_v01.uml#_ht4Yo753EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oHWm4L54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      </parameters>
+      <parameters xmi:id="_oHWm4r54EeuWH6hdtuvFWg" name="yearAggregationType">
+        <modelElement href="AdvancedDBs_v01.uml#_ht4YpL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oHWm4754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oHWm5L54EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_oHbfML54EeuWH6hdtuvFWg" containment="_oHaREL54EeuWH6hdtuvFWg" name="ChartInfo" package="_h5ytsL53EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrhBIL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_oHbfMb54EeuWH6hdtuvFWg" position="706.0,447.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_oHbfMr54EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_oHbfM754EeuWH6hdtuvFWg" name="chartTitle">
+      <modelElement href="AdvancedDBs_v01.uml#_huQzIL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oHbfNL54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHbfNb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_oHbfNr54EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_oHbfN754EeuWH6hdtuvFWg" name="xAxisLabel">
+      <modelElement href="AdvancedDBs_v01.uml#_huQzIb53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oHbfOL54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huQzIr53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oHbfOb54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_oHbfOr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_oHbfO754EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_oHbfPL54EeuWH6hdtuvFWg" name="yAxisLabel">
+      <modelElement href="AdvancedDBs_v01.uml#_huQzI753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oHbfPb54EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huRaML53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oHbfPr54EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_oHbfP754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_oHbfQL54EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_oHbfQb54EeuWH6hdtuvFWg" comments="_oHa4IL54EeuWH6hdtuvFWg" targetConnectionVisual="_oHa4Ib54EeuWH6hdtuvFWg" name="calculateXaxisScale">
+      <modelElement href="AdvancedDBs_v01.uml#_hrhoML53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oHbfQr54EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_hrhoMb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oHbfQ754EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHbfRL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oHbfRb54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht3KgL53EeuWH6hdtuvFWg"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oHbfR754EeuWH6hdtuvFWg" name="calculateYaxisScale">
+      <modelElement href="AdvancedDBs_v01.uml#_hriPQL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_oHbfSL54EeuWH6hdtuvFWg" name="Generics">
+        <modelElement href="AdvancedDBs_v01.uml#_hriPQb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_oHbfSb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHbfSr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oHbfS754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_ht3Kgb53EeuWH6hdtuvFWg"/>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oHbfTb54EeuWH6hdtuvFWg" name="getxAxisLabel">
+      <modelElement href="AdvancedDBs_v01.uml#_hriPQr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oHbfTr54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHbfT754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oHbfUL54EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hriPQ753EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oHbfUb54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oHbfUr54EeuWH6hdtuvFWg" name="setxAxisLabel">
+      <modelElement href="AdvancedDBs_v01.uml#_hriPRL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oHbfU754EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHbfVL54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_oHbfVb54EeuWH6hdtuvFWg" name="xAxisLabel">
+        <modelElement href="AdvancedDBs_v01.uml#_hri2UL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oHbfVr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oHbfV754EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_oHbfWL54EeuWH6hdtuvFWg" name="getyAxisLabel">
+      <modelElement href="AdvancedDBs_v01.uml#_hri2Ub53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oHbfWb54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHbfWr54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_oHbfW754EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hri2Ur53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_oHbfXL54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_oHbfXb54EeuWH6hdtuvFWg" name="setyAxisLabel">
+      <modelElement href="AdvancedDBs_v01.uml#_hri2U753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_oHbfXr54EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_oHbfX754EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_oHbfYL54EeuWH6hdtuvFWg" name="yAxisLabel">
+        <modelElement href="AdvancedDBs_v01.uml#_hri2VL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_oHbfYb54EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_oHbfYr54EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_BifkUb55EeuWH6hdtuvFWg" sourceConnectionVisual="_BifkUr55EeuWH6hdtuvFWg" text="Class responsible for creating the query&#xA;Connects to Database and get the data" item="_BiiAmb55EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hus4Ab53EeuWH6hdtuvFWg"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_BigycL55EeuWH6hdtuvFWg" sourceConnectionVisual="_Bigycb55EeuWH6hdtuvFWg" text="Tha prwtina na diname ta stoixeia tis sundesis &#xA;&#x9; * apo ton constructor ris main Engine to sizitame" item="_BiiApr55EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hus4Ar53EeuWH6hdtuvFWg"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Bigycr55EeuWH6hdtuvFWg" sourceConnectionVisual="_Bigyc755EeuWH6hdtuvFWg" text="Method that creates the triple Hashmap with the data.&#xA;&#x9; * chartData stores this hashmap&#xA;&#x9; * @param query Query object containing Arraylists with indexes, countries and years&#xA;&#x9; * @throws SQLException" item="_BiiAsb55EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hus4A753EeuWH6hdtuvFWg"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Bikc0b55EeuWH6hdtuvFWg" sourceConnectionVisual="_Bikc0r55EeuWH6hdtuvFWg" text="Singleton Pattern.&#xD;&#xA;&#x9; * &#x9;Public static method for getting the Database instance." item="_BilrHr55EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hus4AL53EeuWH6hdtuvFWg"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_BiiAmb55EeuWH6hdtuvFWg" comments="_BifkUb55EeuWH6hdtuvFWg" targetConnectionVisual="_BifkUr55EeuWH6hdtuvFWg" containment="_BigLZL55EeuWH6hdtuvFWg" name="QueryProcessor" package="_h5z70L53EeuWH6hdtuvFWg" associationsIn="_xpFbpb54EeuWH6hdtuvFWg" associationsOut="_BifkUL55EeuWH6hdtuvFWg _BiiAkL55EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrt1cL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_BiiAmr55EeuWH6hdtuvFWg" position="-2067.0,291.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_BiiAm755EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_BiiAnL55EeuWH6hdtuvFWg" name="chartData">
+      <modelElement href="AdvancedDBs_v01.uml#_huVroL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_BiiAnb55EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huVrob53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_BiiAnr55EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_BiiAn755EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_BiiAoL55EeuWH6hdtuvFWg" name="ChartData">
+        <modelElement href="AdvancedDBs_v01.uml#_hrwRsL53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_BiiAob55EeuWH6hdtuvFWg" name="database">
+      <modelElement href="AdvancedDBs_v01.uml#_huVror53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_BiiAor55EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huVro753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_BiiAo755EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_BiiApL55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_BiiApb55EeuWH6hdtuvFWg" name="Database">
+        <modelElement href="AdvancedDBs_v01.uml#_hrrZML53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_BiiApr55EeuWH6hdtuvFWg" comments="_BigycL55EeuWH6hdtuvFWg" targetConnectionVisual="_Bigycb55EeuWH6hdtuvFWg" name="QueryProcessor">
+      <modelElement href="AdvancedDBs_v01.uml#_hrucgL53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_BiiAp755EeuWH6hdtuvFWg" keyword="create"/>
+      <visibility xmi:id="_BiiAqL55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BiiAqb55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_BiiAqr55EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrucg753EeuWH6hdtuvFWg"/>
+        <type xmi:id="_BiiAq755EeuWH6hdtuvFWg" name="QueryProcessor">
+          <modelElement href="AdvancedDBs_v01.uml#_hrt1cL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_BiiArL55EeuWH6hdtuvFWg" name="GetResults">
+      <modelElement href="AdvancedDBs_v01.uml#_hruchL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_BiiArb55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BiiArr55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_BiiAr755EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hteI8r53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_BiiAsL55EeuWH6hdtuvFWg" name="ChartData">
+          <modelElement href="AdvancedDBs_v01.uml#_hrwRsL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_BiiAsb55EeuWH6hdtuvFWg" comments="_Bigycr55EeuWH6hdtuvFWg" targetConnectionVisual="_Bigyc755EeuWH6hdtuvFWg" name="queryProcess">
+      <modelElement href="AdvancedDBs_v01.uml#_hteI8L53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_BiiAsr55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BiiAs755EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_BiiAtL55EeuWH6hdtuvFWg" name="query">
+        <modelElement href="AdvancedDBs_v01.uml#_hteI8b53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_BiiAtb55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_BiiAtr55EeuWH6hdtuvFWg" name="Query">
+          <modelElement href="AdvancedDBs_v01.uml#_hrmgsL53EeuWH6hdtuvFWg"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Bilq8755EeuWH6hdtuvFWg" containment="_Bikc0L55EeuWH6hdtuvFWg" name="Database" package="_h5z70L53EeuWH6hdtuvFWg" associationsIn="_Bij1wL55EeuWH6hdtuvFWg _BiiAkL55EeuWH6hdtuvFWg" associationsOut="_Bij1wL55EeuWH6hdtuvFWg">
+    <modelElement href="AdvancedDBs_v01.uml#_hrrZML53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_Bilq9L55EeuWH6hdtuvFWg" position="2603.0,223.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Bilq9b55EeuWH6hdtuvFWg" label="+"/>
+    <attributes xmi:id="_Bilq9r55EeuWH6hdtuvFWg" name="database" staticAttribute="true">
+      <modelElement href="AdvancedDBs_v01.uml#_huUdhL53EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_Bilq9755EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huUdhb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_Bilq-L55EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_Bilq-b55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_Bilq-r55EeuWH6hdtuvFWg" name="Database">
+        <modelElement href="AdvancedDBs_v01.uml#_hrrZML53EeuWH6hdtuvFWg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Bilq-755EeuWH6hdtuvFWg" name="myConn">
+      <modelElement href="AdvancedDBs_v01.uml#_huVEkL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_Bilq_L55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_Bilq_b55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+    </attributes>
+    <attributes xmi:id="_Bilq_r55EeuWH6hdtuvFWg" name="USERNAME">
+      <modelElement href="AdvancedDBs_v01.uml#_huVEkb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_Bilq_755EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BilrAL55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_BilrAb55EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_BilrAr55EeuWH6hdtuvFWg" name="PASSWORD">
+      <modelElement href="AdvancedDBs_v01.uml#_huVEkr53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_BilrA755EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BilrBL55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_BilrBb55EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_BilrBr55EeuWH6hdtuvFWg" defaultValue="&quot;jdbc:mysql://localhost:3306/AdvancedDBs_v01&quot;" name="DATABASE">
+      <modelElement href="AdvancedDBs_v01.uml#_huVEk753EeuWH6hdtuvFWg"/>
+      <stereotypes xmi:id="_BilrB755EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_huVElb53EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_BilrCL55EeuWH6hdtuvFWg" label="-"/>
+      <cardinality xmi:id="_BilrCb55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <type xmi:id="_BilrCr55EeuWH6hdtuvFWg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_BilrC755EeuWH6hdtuvFWg" name="Database">
+      <modelElement href="AdvancedDBs_v01.uml#_hrsAQL53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_BilrDL55EeuWH6hdtuvFWg" keyword="create"/>
+      <stereotypes xmi:id="_BilrDb55EeuWH6hdtuvFWg" name="LegacyStyledElement">
+        <modelElement href="AdvancedDBs_v01.uml#_hrsAQ753EeuWH6hdtuvFWg"/>
+      </stereotypes>
+      <visibility xmi:id="_BilrDr55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BilrD755EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_BilrEL55EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrsARL53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_BilrEb55EeuWH6hdtuvFWg" name="Database">
+          <modelElement href="AdvancedDBs_v01.uml#_hrrZML53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_BilrEr55EeuWH6hdtuvFWg" name="Database">
+      <modelElement href="AdvancedDBs_v01.uml#_hrsARb53EeuWH6hdtuvFWg"/>
+      <keywords xmi:id="_BilrE755EeuWH6hdtuvFWg" keyword="create"/>
+      <visibility xmi:id="_BilrFL55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BilrFb55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_BilrFr55EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrsnU753EeuWH6hdtuvFWg"/>
+        <type xmi:id="_BilrF755EeuWH6hdtuvFWg" name="Database">
+          <modelElement href="AdvancedDBs_v01.uml#_hrrZML53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_BilrGL55EeuWH6hdtuvFWg" name="username">
+        <modelElement href="AdvancedDBs_v01.uml#_hrsARr53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_BilrGb55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_BilrGr55EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_BilrG755EeuWH6hdtuvFWg" name="password">
+        <modelElement href="AdvancedDBs_v01.uml#_hrsnUL53EeuWH6hdtuvFWg"/>
+        <cardinality xmi:id="_BilrHL55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+        <type xmi:id="_BilrHb55EeuWH6hdtuvFWg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_BilrHr55EeuWH6hdtuvFWg" comments="_Bikc0b55EeuWH6hdtuvFWg" targetConnectionVisual="_Bikc0r55EeuWH6hdtuvFWg" name="getDatabaseInstance" staticOperation="true">
+      <modelElement href="AdvancedDBs_v01.uml#_hrsnVL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_BilrH755EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BilrIL55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_BilrIb55EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_htdh4L53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_BilrIr55EeuWH6hdtuvFWg" name="Database">
+          <modelElement href="AdvancedDBs_v01.uml#_hrrZML53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_BilrI755EeuWH6hdtuvFWg" name="connect">
+      <modelElement href="AdvancedDBs_v01.uml#_hrsnVb53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_BilrJL55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BilrJb55EeuWH6hdtuvFWg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_BilrJr55EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrsnVr53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_BilrJ755EeuWH6hdtuvFWg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_BilrKL55EeuWH6hdtuvFWg" name="getDByears">
+      <modelElement href="AdvancedDBs_v01.uml#_hrsnV753EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_BilrKb55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BilrKr55EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_BilrK755EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrsnWL53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_BilrLL55EeuWH6hdtuvFWg" name="Year">
+          <modelElement href="AdvancedDBs_v01.uml#_hrnHwL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_BilrLb55EeuWH6hdtuvFWg" name="getDBcountries">
+      <modelElement href="AdvancedDBs_v01.uml#_hrtOYL53EeuWH6hdtuvFWg"/>
+      <visibility xmi:id="_BilrLr55EeuWH6hdtuvFWg" label="+"/>
+      <cardinality xmi:id="_BilrL755EeuWH6hdtuvFWg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_BilrML55EeuWH6hdtuvFWg">
+        <modelElement href="AdvancedDBs_v01.uml#_hrtOYb53EeuWH6hdtuvFWg"/>
+        <type xmi:id="_BilrMb55EeuWH6hdtuvFWg" name="Country">
+          <modelElement href="AdvancedDBs_v01.uml#_hrjdYL53EeuWH6hdtuvFWg"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_h50i4L53EeuWH6hdtuvFWg" name="view">
+    <modelElement href="AdvancedDBs_v01.uml#_hq8ZYL53EeuWH6hdtuvFWg"/>
+    <visualProperties xmi:id="_h50i4b53EeuWH6hdtuvFWg" position="-610.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

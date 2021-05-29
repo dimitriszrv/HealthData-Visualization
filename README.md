@@ -7,7 +7,7 @@ Contributors :
     Evangelos Barbalias
 </a> and <a href="https://github.com/dimitriszrv">
     Dimitrios Zervas
-</a> and <a hred="https://github.com/sotirisks">
+</a> and <a href="https://github.com/sotirisks">
     Sotirios Kaitis
 </a>
 

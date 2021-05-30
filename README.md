@@ -11,6 +11,7 @@ Contributors :
     Sotirios Kaitis
 </a>
 
+## About
 
 Initially, to create the database, all the data from the Gapminder page is processed in CSV format, a final CSV is created that contains all the data in one file. Based on the above aggregate CSV file, the database, which consists of a table, was created. Its columns are the various indexes while each row is a pair of country and date.
 

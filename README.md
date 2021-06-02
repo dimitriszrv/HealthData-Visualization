@@ -1,5 +1,7 @@
 # Visualizing data from Gapminder
+
 [![Build Status](https://www.travis-ci.com/vaggelisbarb/HealthData-Visualization.svg?branch=main)](https://www.travis-ci.com/vaggelisbarb/HealthData-Visualization)
+
 This is an application implemented as part of the undergraduate course in `Advanced Technology and Databases` and aims to visualize medical data
 
 Contributors : 

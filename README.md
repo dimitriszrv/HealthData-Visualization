@@ -1,4 +1,5 @@
 # Visualizing data from Gapminder
+https://www.travis-ci.com/github/vaggelisbarb/Covid19-SearchEngine
 
 This is an application implemented as part of the undergraduate course in `Advanced Technology and Databases` and aims to visualize medical data
 

@@ -12,7 +12,7 @@ global dataBase_Name
 global table_Data_Name
 global TABLES
 
-#sotiris pc
+#dimitris pc
 user = 'root'
 password = 'sql123456'
 
